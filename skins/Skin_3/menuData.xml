@@ -1,0 +1,16 @@
+<SiteMap>
+		<item Text="(!menu.Home!)" NavigateUrl="default.aspx" LookId="TopItemLook"/>
+		<item Text="(!menu.Categories!)" LookId="TopItemLook" />
+		<item Text="(!menu.Sections!)" LookId="TopItemLook" />
+		<item Text="(!menu.Manufacturers!)" NavigateUrl="manufacturers.aspx" LookId="TopItemLook" />
+		<item Text="(!menu.CustomerService!)" NavigateUrl="t-service.aspx" LookId="TopItemLook">
+				<item Text="(!menu.YourAccount!)" NavigateUrl="account.aspx" LookId="DefaultItemLook"/>
+				<item Text="(!menu.OrderHistory!)" NavigateUrl="account.aspx" LookId="DefaultItemLook"/>
+				<item Text="(!menu.FAQs!)" NavigateUrl="t-faq.aspx" LookId="DefaultItemLook"/>
+				<item Text="(!menu.PolicyReturns!)" NavigateUrl="t-returns.aspx" LookId="DefaultItemLook"/>
+				<item Text="(!menu.Shipping!)" NavigateUrl="t-shipping.aspx" LookId="DefaultItemLook"/>
+				<item Text="(!menu.Contact!)" NavigateUrl="t-contact.aspx" LookId="DefaultItemLook"/>
+				<item Text="(!menu.PolicyPrivacy!)" NavigateUrl="t-privacy.aspx" LookId="DefaultItemLook"/>
+				<item Text="(!menu.PolicySecurity!)" NavigateUrl="t-security.aspx" LookId="DefaultItemLook"/>
+		</item>
+</SiteMap>

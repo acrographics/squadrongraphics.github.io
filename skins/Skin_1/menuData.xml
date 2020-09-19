@@ -1,0 +1,38 @@
+<SiteMap>
+		<item Text="(!menu.Home!)" NavigateUrl="default.aspx" LookId="TopItemLook"/>
+		<!--<item Text="(!menu.Categories!)" LookId="TopItemLook" />-->
+		<item Text="Military Prints" NavigateUrl="c-23-military-prints.aspx" LookId="TopItemLook">
+		<item Text="Miniature" NavigateUrl="c-25-miniature.aspx" LookId="DefaultItemLook"/>
+        <item Text="Standard" NavigateUrl="c-26-standard.aspx" LookId="DefaultItemLook"/>
+        <item Text="Large" NavigateUrl="c-24-large.aspx" LookId="DefaultItemLook"/>
+		</item>
+		<item Text="Aviation Art" NavigateUrl="c-34-aviation-art.aspx" LookId="TopItemLook">
+		</item>
+		<item Text="Airline Prints" NavigateUrl="c-20-airline-prints.aspx" LookId="TopItemLook">
+				<item Text="Miniature" NavigateUrl="c-21-miniature.aspx" LookId="DefaultItemLook"/>
+				<item Text="Standard" NavigateUrl="c-22-standard.aspx" LookId="DefaultItemLook"/>
+				<item Text="Large" NavigateUrl="c-122-large.aspx" LookId="DefaultItemLook"/>
+				<item Text="Continental Gift Ideas" NavigateUrl="c-152-continental-gift-ideas.aspx" LookId="DefaultItemLook"/>
+				<item Text="United Gift Ideas" NavigateUrl="c-183-united-gift-ideas.aspx" LookId="DefaultItemLook"/>
+
+		</item>
+		<item Text="Shadowboxes" NavigateUrl="c-28-shadowboxes.aspx" LookId="TopItemLook">
+				<item Text="Multiple Uses" NavigateUrl="c-31-multiple-uses.aspx" LookId="DefaultItemLook"/>
+				<item Text="Rank Specific" NavigateUrl="c-30-rank-specific.aspx" LookId="DefaultItemLook">
+				</item>
+		</item>
+		<item Text="Gift Ideas" NavigateUrl="c-29-gift-ideas.aspx" LookId="TopItemLook">
+		</item>
+ 		<item Text="Print Finder" NavigateUrl="printfinder.aspx" LookId="TopItemLook"/>
+		
+		<item Text="(!menu.CustomerService!)" NavigateUrl="#" LookId="TopItemLook">
+				<item Text="(!menu.YourAccount!)" NavigateUrl="account.aspx" LookId="DefaultItemLook"/>
+				<item Text="(!menu.OrderHistory!)" NavigateUrl="account.aspx" LookId="DefaultItemLook"/>
+				<item Text="(!menu.FAQs!)" NavigateUrl="t-faq.aspx" LookId="DefaultItemLook"/>
+				<item Text="(!menu.PolicyReturns!)" NavigateUrl="t-returns.aspx" LookId="DefaultItemLook"/>
+				<item Text="(!menu.Shipping!)" NavigateUrl="t-shipping.aspx" LookId="DefaultItemLook"/>
+				<item Text="(!menu.Contact!)" NavigateUrl="t-contact.aspx" LookId="DefaultItemLook"/>
+				<item Text="(!menu.PolicyPrivacy!)" NavigateUrl="t-privacy.aspx" LookId="DefaultItemLook"/>
+				<item Text="(!menu.PolicySecurity!)" NavigateUrl="t-security.aspx" LookId="DefaultItemLook"/>
+		</item>
+</SiteMap>

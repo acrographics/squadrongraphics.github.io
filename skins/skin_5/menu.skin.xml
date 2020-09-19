@@ -1,0 +1,32 @@
+﻿<MenuSkins xmlns="ExpertMenu Configuration Schema">
+	<MenuSkin Id="Base" DefaultGroupLook="BaseGroup" DefaultItemLook="BaseItem">
+		<MenuLook Id="BaseGroup" GroupCssClass="MenuGroup">
+			<MenuLook Id="BaseTopGroup" GroupCssClass="DropMenuGroup" />
+		</MenuLook>
+		<MenuLook Id="BaseItem" ItemExpandedCssClass="MenuItemOver" ItemCssClassOver="MenuItemOver" ItemCssClass="MenuItem">
+			<MenuLook Id="BaseTopItem" />
+			<MenuLook Id="BaseParentItem" RightIconExpanded="arrow_right.gif" RightIconOver="arrow_right.gif" RightIcon="arrow_right.gif" />
+		</MenuLook>
+		<MenuLook Id="BaseSeparator" Height="1" Width="125" Image="gray.gif" ItemCssClass="MenuBreak" IsNavigable="false" />
+	</MenuSkin>
+	<MenuSkin Id="Office2003" Overrides="Base" DefaultGroupLook="Office2003Group" DefaultItemLook="Office2003Item">
+		<MenuLook Id="Office2003Group" ImagesBaseUrl="~/skins/skin_1/images/" ItemSpacing="1" GroupCssClass="Office2003MenuGroup">
+			<MenuLook Overrides="BaseTopGroup" ImagesBaseUrl="~/skins/skin_1/images/" GroupCssClass="Office2003TopGroup" />
+		</MenuLook>
+		<MenuLook Id="Office2003Item" NoBreak="true" TextPaddingRight="10px" TextPaddingLeft="25px" RightIconWidth="15" LeftIconPadding="1" LeftIconHeight="18" LeftIconWidth="20" ImagesBaseUrl="~/skins/skin_1/images/" ItemExpandedCssClass="Office2003MenuItemOver" ItemCssClassOver="Office2003MenuItemOver" ItemCssClass="Office2003MenuItem">
+			<MenuLook Overrides="BaseTopItem" ItemExpandedCssClass="Office2003TopMenuItemOver" TextPaddingLeft="10px" ItemCssClassOver="Office2003TopMenuItemOver" ItemCssClass="Office2003TopMenuItem" />
+			<MenuLook Overrides="BaseParentItem" ItemExpandedCssClass="Office2003MenuItemOver" ItemCssClass="Office2003MenuItem" ItemCssClassOver="Office2003MenuItemOver" RightIconExpanded="arrow_right_over.gif" RightIconOver="arrow_right_over.gif" RightIcon="arrow_right.gif" />
+		</MenuLook>
+		<MenuLook Overrides="BaseSeparator" Height="1" Width="125" Image="gray.gif" ItemCssClass="Office2003MenuBreak" IsNavigable="false" />
+	</MenuSkin>
+	<MenuSkin Id="WinXP" Overrides="Base" DefaultGroupLook="WinXPGroup" DefaultItemLook="WinXPItem">
+		<MenuLook Id="WinXPGroup" ImagesBaseUrl="images/" ItemSpacing="1" GroupCssClass="WinXPMenuGroup">
+			<MenuLook Overrides="BaseTopGroup" GroupCssClass="WinXPTopGroup" />
+		</MenuLook>
+		<MenuLook Id="WinXPItem" TextPaddingRight="10px" TextPaddingLeft="30px" LeftIconHeight="18" LeftIconWidth="20" ItemExpandedCssClass="WinXPMenuItemOver" ItemDisabledCssClass="WinXPMenuItemDisabled" ItemCssClassDown="WinXPMenuItemOver" ItemCssClassOver="WinXPMenuItemOver" ItemCssClass="WinXPMenuItem">
+			<MenuLook Overrides="BaseTopItem" ItemExpandedCssClass="WinXPTopMenuItemOver" ItemDisabledCssClass="WinXPTopMenuItemDisabled" ItemCssClassDown="WinXPTopMenuItemOver" ItemCssClassOver="WinXPTopMenuItemOver" ItemCssClass="WinXPTopMenuItem" />
+			<MenuLook Overrides="BaseParentItem" RightIcon="arrow_right.gif" ItemExpandedCssClass="WinXPMenuItemOver" ItemDisabledCssClass="WinXPMenuItemDisabled" RightIconWidth="15" ItemCssClassDown="WinXPMenuItemOver" ItemCssClassOver="WinXPMenuItemOver" ItemCssClass="WinXPMenuItem" />
+		</MenuLook>
+		<MenuLook Overrides="BaseSeparator" Height="1" Width="110" Image="gray.gif" ItemCssClass="WinXPMenuBreak" IsNavigable="false" />
+	</MenuSkin>
+</MenuSkins>

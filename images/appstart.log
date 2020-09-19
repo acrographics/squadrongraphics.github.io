@@ -1,0 +1,92 @@
+﻿11/30/2018 2:27:58 PM: Starting AspDotNetStorefront...
+
+11/30/2018 2:27:58 PM: Testing DBConn...
+
+11/30/2018 2:27:58 PM: DBConn OK.
+
+11/30/2018 2:27:58 PM: AppLogic.ApplicationStart...
+
+11/30/2018 2:27:58 PM: Determine Trust Level...
+
+11/30/2018 2:27:58 PM: Determine Trust Level OK.
+
+11/30/2018 2:27:58 PM: ClearCache...
+
+11/30/2018 2:27:58 PM: ClearCache OK.
+
+11/30/2018 2:27:58 PM: Application.Clear...
+
+11/30/2018 2:27:58 PM: Application.Clear OK.
+
+11/30/2018 2:27:58 PM: Application.RemoveAll...
+
+11/30/2018 2:27:58 PM: Application.RemoveAll OK.
+
+11/30/2018 2:27:58 PM: ExcelToXml.SetLicense...
+
+11/30/2018 2:27:58 PM: ExcelToXml.SetLicense OK.
+
+11/30/2018 2:27:58 PM: ComponentArt License...
+
+11/30/2018 2:27:58 PM: ComponentArt License OK.
+
+11/30/2018 2:27:58 PM: AppConfig Load...
+
+11/30/2018 2:27:58 PM: AppConfig Load OK.
+
+11/30/2018 2:27:58 PM: EventHandler Load...
+
+11/30/2018 2:27:58 PM: EventHandler Load OK.
+
+11/30/2018 2:27:58 PM: Load StringResources...
+
+11/30/2018 2:27:58 PM: Load StringResources OK.
+
+11/30/2018 2:27:58 PM: Load EntityHelpers...
+
+11/30/2018 2:29:45 PM: Load EntityHelpers OK.
+
+11/30/2018 2:29:45 PM: License Check...
+
+11/30/2018 2:29:45 PM: License Check Completed.
+
+11/30/2018 2:29:45 PM: Load Tax Tables...
+
+11/30/2018 2:29:49 PM: Load Tax Tables OK.
+
+11/30/2018 2:29:49 PM: Setup 49...
+
+11/30/2018 2:29:49 PM: Setup 49 OK.
+
+11/30/2018 2:29:49 PM: CustomerSession.StaticClear...
+
+11/30/2018 2:29:49 PM: CustomerSession.StaticClear OK.
+
+11/30/2018 2:29:49 PM: Load CustomerLevels...
+
+11/30/2018 2:29:49 PM: Load CustomerLevels OK.
+
+11/30/2018 2:29:49 PM: CC Check...
+
+11/30/2018 2:29:51 PM: CC Check OK.
+
+11/30/2018 2:29:51 PM: NextKeyChangeCheck...
+
+11/30/2018 2:29:51 PM: NextKeyChangeCheck OK.
+
+11/30/2018 2:29:51 PM: Legacy ConvertAllPasswords...
+
+11/30/2018 2:29:51 PM: Legacy ConvertAllPasswords OK.
+
+11/30/2018 2:29:51 PM: Legacy UpgradeEncryption...
+
+11/30/2018 2:29:51 PM: Legacy UpgradeEncryption OK.
+
+11/30/2018 2:29:51 PM: FrameEngine Clear Cache...
+
+11/30/2018 2:29:51 PM: FrameEngine Clear Cache Ok
+
+11/30/2018 2:29:51 PM: AppLogic.ApplicationStart OK.
+
+11/30/2018 2:29:51 PM: AspDotNetStorefront Started OK.
+

@@ -1,0 +1,457 @@
+<root>
+  <System>
+    <IsAdminSite>False</IsAdminSite>
+    <IsAdminSiteInt>0</IsAdminSiteInt>
+    <CustomerID>61294</CustomerID>
+    <DefaultVATSetting>1</DefaultVATSetting>
+    <CustomerVATSetting>1</CustomerVATSetting>
+    <UseVATSetting>1</UseVATSetting>
+    <CustomerLevelID>0</CustomerLevelID>
+    <CustomerLevelName />
+    <CustomerFirstName />
+    <CustomerLastName />
+    <CustomerFullName />
+    <SubscriptionExpiresOn />
+    <CustomerRoles>NoSubscription,NotRegistered</CustomerRoles>
+    <IsAdminUser>false</IsAdminUser>
+    <IsSuperUser>false</IsSuperUser>
+    <VAT.Enabled>false</VAT.Enabled>
+    <VAT.AllowCustomerToChooseSetting>true</VAT.AllowCustomerToChooseSetting>
+    <LocaleSetting>en-US</LocaleSetting>
+    <CurrencySetting>USD</CurrencySetting>
+    <CurrencyDisplayLocaleFormat>en-US</CurrencyDisplayLocaleFormat>
+    <WebConfigLocaleSetting>en-US</WebConfigLocaleSetting>
+    <SqlServerLocaleSetting>en-US</SqlServerLocaleSetting>
+    <PrimaryCurrency>USD</PrimaryCurrency>
+    <PrimaryCurrencyDisplayLocaleFormat>en-US</PrimaryCurrencyDisplayLocaleFormat>
+    <Date>5/9/2008</Date>
+    <Time>11:04 PM</Time>
+    <SkinID>1</SkinID>
+    <AffiliateID>0</AffiliateID>
+    <IPAddress>24.6.178.219</IPAddress>
+    <QueryStringRAW>ProductID=864&amp;amp;SEName=b-24h-liberator</QueryStringRAW>
+    <UseStaticLinks>false</UseStaticLinks>
+    <PageName>showproduct.aspx</PageName>
+    <FullPageName>/showproduct.aspx</FullPageName>
+    <XmlPackageName>product.framedprint.xml.config</XmlPackageName>
+    <StoreUrl>http://squadrongraphics.com/</StoreUrl>
+    <CurrentDateTime>Sat, 10 May 2008 03:04:39 GMT</CurrentDateTime>
+    <CustomerIsRegistered>false</CustomerIsRegistered>
+    <RequestedPage>p-864-b-24h-liberator.aspx</RequestedPage>
+  </System>
+  <QueryString>
+    <productid>864</productid>
+    <sename>b-24h-liberator</sename>
+  </QueryString>
+  <Form />
+  <Session />
+  <ServerVariables>
+    <HTTP_HOST>squadrongraphics.com</HTTP_HOST>
+    <HTTP_USER_AGENT>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14</HTTP_USER_AGENT>
+    <AUTH_TYPE>Forms</AUTH_TYPE>
+    <AUTH_USER>461786f1-33a9-4bb0-8eb7-46ae91e74e8a</AUTH_USER>
+    <AUTH_PASSWORD />
+    <HTTPS>off</HTTPS>
+    <LOCAL_ADDR>66.252.239.149</LOCAL_ADDR>
+    <PATH_INFO>/showproduct.aspx</PATH_INFO>
+    <PATH_TRANSLATED>D:\Domains\squadrongraphics.com\wwwroot\showproduct.aspx</PATH_TRANSLATED>
+    <SCRIPT_NAME>/showproduct.aspx</SCRIPT_NAME>
+    <SERVER_NAME>squadrongraphics.com</SERVER_NAME>
+    <SERVER_PORT_SECURE>0</SERVER_PORT_SECURE>
+  </ServerVariables>
+  <Runtime>
+    <IPAddress>24.6.178.219</IPAddress>
+    <CurrencySetting>USD</CurrencySetting>
+    <IsAdminSite>False</IsAdminSite>
+    <StoreUrl>http://squadrongraphics.com/</StoreUrl>
+    <VAT.Enabled>False</VAT.Enabled>
+    <PageName>showproduct.aspx</PageName>
+    <IsSuperUser>False</IsSuperUser>
+    <CustomerLastName />
+    <PrimaryCurrency>USD</PrimaryCurrency>
+    <WebConfigLocaleSetting>en-US</WebConfigLocaleSetting>
+    <CurrencyDisplayLocaleFormat>en-US</CurrencyDisplayLocaleFormat>
+    <VAT.AllowCustomerToChooseSetting>True</VAT.AllowCustomerToChooseSetting>
+    <AffiliateID>0</AffiliateID>
+    <CustomerIsRegistered>false</CustomerIsRegistered>
+    <Time>11:04 PM</Time>
+    <QueryStringRAW>ProductID=864&amp;amp;SEName=b-24h-liberator</QueryStringRAW>
+    <LocaleSetting>en-US</LocaleSetting>
+    <CustomerLevelName />
+    <FullPageName>/showproduct.aspx</FullPageName>
+    <CustomerLevelID>0</CustomerLevelID>
+    <EntityName>Category</EntityName>
+    <DefaultVATSetting>1</DefaultVATSetting>
+    <SqlServerLocaleSetting>en-US</SqlServerLocaleSetting>
+    <CustomerVATSetting>1</CustomerVATSetting>
+    <IsAdminUser>False</IsAdminUser>
+    <Date>5/9/2008</Date>
+    <CustomerRoles>NoSubscription,NotRegistered</CustomerRoles>
+    <SkinID>1</SkinID>
+    <EntityID>25</EntityID>
+    <SubscriptionExpiresOn />
+    <CustomerFirstName />
+    <UseStaticLinks>False</UseStaticLinks>
+    <XmlPackageName>product.framedprint.xml.config</XmlPackageName>
+    <UseVATSetting>1</UseVATSetting>
+    <CustomerFullName />
+    <PrimaryCurrencyDisplayLocaleFormat>en-US</PrimaryCurrencyDisplayLocaleFormat>
+    <IsAdminSiteInt>0</IsAdminSiteInt>
+  </Runtime>
+  <Products>
+    <Product>
+      <ProductID>864</ProductID>
+      <ProductGUID>08b519b2-ac0a-4b14-97c7-d7cb0491d09d</ProductGUID>
+      <Name>B-24H "Liberator"</Name>
+      <Summary>
+      </Summary>
+      <Description>Custom Artwork for this B-24H Liberator from 790th Bomb Squadron, 467 Bomb Group based out of RAF Rackheath, UK is offered as a beautiful 10.5 in. x 5.5 in. print.</Description>
+      <SEKeywords>B-24,790th Bomb Squadron, 467 Bomb Group,RAF Rackheath, UK,Liberator</SEKeywords>
+      <SEDescription>Original Military and Commercial Aircraft Imagery of the B-24H - Liberator - 790th Bomb Squadron, 467 Bomb Group - RAF Rackheath, UK</SEDescription>
+      <SpecTitle>
+      </SpecTitle>
+      <MiscText />
+      <SwatchImageMap />
+      <IsFeaturedTeaser />
+      <FroogleDescription>
+      </FroogleDescription>
+      <SETitle>B-24 Liberator 790th Bomb Squadron, 467 Bomb Group RAF Rackheath, UK</SETitle>
+      <SENoScript>
+      </SENoScript>
+      <SEAltText />
+      <SizeOptionPrompt>
+      </SizeOptionPrompt>
+      <ColorOptionPrompt>
+      </ColorOptionPrompt>
+      <TextOptionPrompt>
+      </TextOptionPrompt>
+      <ProductTypeID>108</ProductTypeID>
+      <TaxClassID>1</TaxClassID>
+      <SKU>06</SKU>
+      <ManufacturerPartNumber>
+      </ManufacturerPartNumber>
+      <SalesPromptID>1</SalesPromptID>
+      <SpecCall />
+      <SpecsInline>0</SpecsInline>
+      <IsFeatured>0</IsFeatured>
+      <XmlPackage>product.framedprint.xml.config</XmlPackage>
+      <ColWidth>4</ColWidth>
+      <Published>1</Published>
+      <Wholesale>1</Wholesale>
+      <RequiresRegistration>0</RequiresRegistration>
+      <Looks>233</Looks>
+      <Notes />
+      <QuantityDiscountID>0</QuantityDiscountID>
+      <RelatedProducts>
+      </RelatedProducts>
+      <UpsellProducts>
+      </UpsellProducts>
+      <UpsellProductDiscountPercentage>0.0000</UpsellProductDiscountPercentage>
+      <RelatedDocuments />
+      <TrackInventoryBySizeAndColor>0</TrackInventoryBySizeAndColor>
+      <TrackInventoryBySize>0</TrackInventoryBySize>
+      <TrackInventoryByColor>0</TrackInventoryByColor>
+      <IsAKit>1</IsAKit>
+      <ShowInProductBrowser>1</ShowInProductBrowser>
+      <IsAPack>0</IsAPack>
+      <PackSize>0</PackSize>
+      <ShowBuyButton>1</ShowBuyButton>
+      <RequiresProducts>
+      </RequiresProducts>
+      <HidePriceUntilCart>0</HidePriceUntilCart>
+      <IsCalltoOrder>0</IsCalltoOrder>
+      <ExcludeFromPriceFeeds>0</ExcludeFromPriceFeeds>
+      <RequiresTextOption>0</RequiresTextOption>
+      <TextOptionMaxLength>0</TextOptionMaxLength>
+      <SEName>b-24h-liberator</SEName>
+      <ExtensionData>
+      </ExtensionData>
+      <ExtensionData2 />
+      <ExtensionData3 />
+      <ExtensionData4 />
+      <ExtensionData5 />
+      <ContentsBGColor>
+      </ContentsBGColor>
+      <PageBGColor>
+      </PageBGColor>
+      <GraphicsColor>
+      </GraphicsColor>
+      <ImageFilenameOverride>10.5x5.5-Full-Color-Miniature-B24-Liberator-790th-BS-467th-BG-Rackheath-(SQGI-06.)-Print.jpg</ImageFilenameOverride>
+      <IsImport>0</IsImport>
+      <IsSystem>0</IsSystem>
+      <Deleted>0</Deleted>
+      <CreatedOn>8/21/2007 1:36:21 PM</CreatedOn>
+      <PageSize>20</PageSize>
+      <WarehouseLocation />
+      <AvailableStartDate>8/21/2007 12:00:00 AM</AvailableStartDate>
+      <AvailableStopDate />
+      <GoogleCheckoutAllowed>1</GoogleCheckoutAllowed>
+      <SkinID>0</SkinID>
+      <TemplateName>
+      </TemplateName>
+      <VariantID>873</VariantID>
+      <price>12.9500</price>
+      <saleprice>0.0000</saleprice>
+      <Colors>
+      </Colors>
+      <ExtendedPrice>0.0000</ExtendedPrice>
+    </Product>
+  </Products>
+  <KitItems>
+    <Item>
+      <KitGroupID>753</KitGroupID>
+      <KitGroupGUID>cdbaae21-566f-4445-9ce0-2b61d9787069</KitGroupGUID>
+      <Name>Frame</Name>
+      <Description>Select the type of Frame</Description>
+      <ProductID>864</ProductID>
+      <DisplayOrder>1</DisplayOrder>
+      <KitGroupTypeID>1</KitGroupTypeID>
+      <IsRequired>0</IsRequired>
+      <ExtensionData />
+      <CreatedOn>8/21/2007 1:36:21 PM</CreatedOn>
+    </Item>
+    <Item>
+      <KitGroupID>754</KitGroupID>
+      <KitGroupGUID>befc15fc-030c-48b0-8ba5-02e56192c6c0</KitGroupGUID>
+      <Name>Mat</Name>
+      <Description>Select the type of Mat</Description>
+      <ProductID>864</ProductID>
+      <DisplayOrder>2</DisplayOrder>
+      <KitGroupTypeID>1</KitGroupTypeID>
+      <IsRequired>0</IsRequired>
+      <ExtensionData />
+      <CreatedOn>8/21/2007 1:36:21 PM</CreatedOn>
+    </Item>
+  </KitItems>
+  <Frames>
+    <Frame>
+      <FrameID>124</FrameID>
+      <SKU>CherryWood</SKU>
+      <Name>Cherry Wood</Name>
+      <LengthWide>1.0000</LengthWide>
+      <Price>17.9500</Price>
+      <DeltaWeight>3.0000</DeltaWeight>
+    </Frame>
+    <Frame>
+      <FrameID>125</FrameID>
+      <SKU>NaturalWood</SKU>
+      <Name>Natural Wood</Name>
+      <LengthWide>0.7500</LengthWide>
+      <Price>13.9500</Price>
+      <DeltaWeight>3.0000</DeltaWeight>
+    </Frame>
+    <Frame>
+      <FrameID>126</FrameID>
+      <SKU>TeakWood</SKU>
+      <Name>Teak Wood </Name>
+      <LengthWide>0.7500</LengthWide>
+      <Price>13.9500</Price>
+      <DeltaWeight>3.0000</DeltaWeight>
+    </Frame>
+    <Frame>
+      <FrameID>127</FrameID>
+      <SKU>BlackWood</SKU>
+      <Name>Black Wood</Name>
+      <LengthWide>0.7500</LengthWide>
+      <Price>13.9500</Price>
+      <DeltaWeight>3.0000</DeltaWeight>
+    </Frame>
+    <Frame>
+      <FrameID>128</FrameID>
+      <SKU>SilverMetal</SKU>
+      <Name>Silver Metal</Name>
+      <LengthWide>0.6300</LengthWide>
+      <Price>13.9500</Price>
+      <DeltaWeight>3.0000</DeltaWeight>
+    </Frame>
+    <Frame>
+      <FrameID>129</FrameID>
+      <SKU>GreyMetal</SKU>
+      <Name>Contrast Grey Metal</Name>
+      <LengthWide>0.6300</LengthWide>
+      <Price>13.9500</Price>
+      <DeltaWeight>3.0000</DeltaWeight>
+    </Frame>
+    <Frame>
+      <FrameID>130</FrameID>
+      <SKU>BlackMetal</SKU>
+      <Name>Black Metal</Name>
+      <LengthWide>0.6300</LengthWide>
+      <Price>13.9500</Price>
+      <DeltaWeight>3.0000</DeltaWeight>
+    </Frame>
+    <Frame>
+      <FrameID>131</FrameID>
+      <SKU>GoldMetal</SKU>
+      <Name>Gold Metal</Name>
+      <LengthWide>0.6300</LengthWide>
+      <Price>13.9500</Price>
+      <DeltaWeight>3.0000</DeltaWeight>
+    </Frame>
+  </Frames>
+  <Mats>
+    <Mat>
+      <MatID>1</MatID>
+      <SKU>ST01</SKU>
+      <Name>Blue / Dark Red Double Mat</Name>
+      <Color1>#343647</Color1>
+      <Color2>#9a333c</Color2>
+      <Mat1ID>101</Mat1ID>
+      <Mat2ID>201</Mat2ID>
+    </Mat>
+    <Mat>
+      <MatID>2</MatID>
+      <SKU>ST02</SKU>
+      <Name>Blue / Orange Double Mat</Name>
+      <Color1>#343647</Color1>
+      <Color2>#d66744</Color2>
+      <Mat1ID>101</Mat1ID>
+      <Mat2ID>202</Mat2ID>
+    </Mat>
+    <Mat>
+      <MatID>4</MatID>
+      <SKU>ST04</SKU>
+      <Name>Gray / Black Double Mat</Name>
+      <Color1>#cbcac9</Color1>
+      <Color2>#000000</Color2>
+      <Mat1ID>102</Mat1ID>
+      <Mat2ID>203</Mat2ID>
+    </Mat>
+    <Mat>
+      <MatID>7</MatID>
+      <SKU>ST07</SKU>
+      <Name>Gray / Dark Blue Double Mat</Name>
+      <Color1>#cbcac9</Color1>
+      <Color2>#546587</Color2>
+      <Mat1ID>102</Mat1ID>
+      <Mat2ID>205</Mat2ID>
+    </Mat>
+    <Mat>
+      <MatID>3</MatID>
+      <SKU>ST03</SKU>
+      <Name>Gray / Dark Red Double Mat</Name>
+      <Color1>#cbcac9</Color1>
+      <Color2>#9a333c</Color2>
+      <Mat1ID>102</Mat1ID>
+      <Mat2ID>201</Mat2ID>
+    </Mat>
+    <Mat>
+      <MatID>9</MatID>
+      <SKU>ST09</SKU>
+      <Name>Gray / Light Green Double Mat</Name>
+      <Color1>#cbcac9</Color1>
+      <Color2>#88ca8b</Color2>
+      <Mat1ID>102</Mat1ID>
+      <Mat2ID>207</Mat2ID>
+    </Mat>
+    <Mat>
+      <MatID>5</MatID>
+      <SKU>ST05</SKU>
+      <Name>Gray / Orange Double Mat</Name>
+      <Color1>#cbcac9</Color1>
+      <Color2>#d66744</Color2>
+      <Mat1ID>102</Mat1ID>
+      <Mat2ID>202</Mat2ID>
+    </Mat>
+    <Mat>
+      <MatID>8</MatID>
+      <SKU>ST08</SKU>
+      <Name>Gray / Purple Double Mat</Name>
+      <Color1>#cbcac9</Color1>
+      <Color2>#846989</Color2>
+      <Mat1ID>102</Mat1ID>
+      <Mat2ID>206</Mat2ID>
+    </Mat>
+    <Mat>
+      <MatID>6</MatID>
+      <SKU>ST06</SKU>
+      <Name>Gray / Yellow Double Mat</Name>
+      <Color1>#cbcac9</Color1>
+      <Color2>#f8f17a</Color2>
+      <Mat1ID>102</Mat1ID>
+      <Mat2ID>204</Mat2ID>
+    </Mat>
+    <Mat>
+      <MatID>10</MatID>
+      <SKU>ST10</SKU>
+      <Name>Green / Black Double Mat</Name>
+      <Color1>#5d613a</Color1>
+      <Color2>#000000</Color2>
+      <Mat1ID>103</Mat1ID>
+      <Mat2ID>203</Mat2ID>
+    </Mat>
+    <Mat>
+      <MatID>11</MatID>
+      <SKU>ST11</SKU>
+      <Name>Green / Dark Red Double Mat</Name>
+      <Color1>#5d613a</Color1>
+      <Color2>#9a333c</Color2>
+      <Mat1ID>103</Mat1ID>
+      <Mat2ID>201</Mat2ID>
+    </Mat>
+    <Mat>
+      <MatID>12</MatID>
+      <SKU>ST12</SKU>
+      <Name>Green / Yellow Double Mat</Name>
+      <Color1>#5d613a</Color1>
+      <Color2>#f8f17a</Color2>
+      <Mat1ID>103</Mat1ID>
+      <Mat2ID>204</Mat2ID>
+    </Mat>
+  </Mats>
+  <MatSizes>
+    <Size>
+      <Dimensions>10.5 in. x 5.5 in.</Dimensions>
+      <RightLeft1>0.8800</RightLeft1>
+      <TopBottom1>0.8800</TopBottom1>
+      <RightLeft2>0.3100</RightLeft2>
+      <TopBottom2>0.3100</TopBottom2>
+    </Size>
+  </MatSizes>
+  <Glazes>
+    <Glaze>
+      <GlazeID>1</GlazeID>
+      <Name>Conservation Clear</Name>
+      <Description>This is the standard glazing</Description>
+      <ui_price />
+      <PriceCategoryID>1</PriceCategoryID>
+      <RefCoatUIPrice />
+      <RefCoatPriceCategoryID>4</RefCoatPriceCategoryID>
+      <Weight>2.0000</Weight>
+      <Published>1</Published>
+      <CreatedOn>11/5/2007 10:04:06 PM</CreatedOn>
+    </Glaze>
+    <Glaze>
+      <GlazeID>2</GlazeID>
+      <Name>Conservation Reflection Control</Name>
+      <Description>This glazing will diffuse glare on its surface, especially good when artwork will hang in a bright room.</Description>
+      <ui_price />
+      <PriceCategoryID>2</PriceCategoryID>
+      <RefCoatUIPrice />
+      <RefCoatPriceCategoryID>4</RefCoatPriceCategoryID>
+      <Weight>2.0000</Weight>
+      <Published>1</Published>
+      <CreatedOn>11/5/2007 10:04:06 PM</CreatedOn>
+    </Glaze>
+    <Glaze>
+      <GlazeID>3</GlazeID>
+      <Name>Museum</Name>
+      <Description>This glazing will protect your artwork from UV damage.</Description>
+      <ui_price />
+      <PriceCategoryID>3</PriceCategoryID>
+      <RefCoatUIPrice />
+      <RefCoatPriceCategoryID>4</RefCoatPriceCategoryID>
+      <Weight>2.0000</Weight>
+      <Published>1</Published>
+      <CreatedOn>11/5/2007 10:04:06 PM</CreatedOn>
+    </Glaze>
+  </Glazes>
+  <ProductsSections>
+    <ProductSections>
+      <Name>790th Bomb Squadron, 467th Bomb Group</Name>
+      <ParentSectionID>440</ParentSectionID>
+      <SectionID>441</SectionID>
+      <ProductID>864</ProductID>
+    </ProductSections>
+  </ProductsSections>
+</root>

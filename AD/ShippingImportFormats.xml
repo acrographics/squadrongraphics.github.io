@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FileFormats>
+    <ImportFormat Name="UPS" id="1" format="Delimited" type="Named" linedelim="&#xD;&#xA;" valueDelim="," textDelim="&quot;">
+        <Column OrderCol="OrderNumber" LogCol="PackageReference1" enabled="1" colnum="" spos="" epos="" type="Integer" />
+        <Column OrderCol="ShippedOn" LogCol="ShipmentInformationPickupdate" enabled="1" colnum="" spos="" epos="" type="Date" format="YYYYMMDDHHmmSS" />
+        <Column OrderCol="ShippedVIA" LogCol="ShipmentInformationServiceType" enabled="1" type="String">
+        </Column>
+        <Column OrderCol="ShipCost" LogCol="PackagePackageCharge" enabled="1" type="Long">
+        </Column>
+        <Column OrderCol="ShipWeight" LogCol="PackageWeight" enabled="1" type="Integer">
+        </Column>
+        <Column OrderCol="ShipTracking" LogCol="PackageTrackingNumber" enabled="1" type="String">
+        </Column>
+    </ImportFormat>
+    <ImportFormat Name="DAZzle" id="2" format="Delimited" type="Named" linedelim="&#xD;&#xA;" valueDelim="	">
+        <Column LogCol="Log_ID" OrderCol="Log_ID" enabled="1" />
+        <Column LogCol="Type" OrderCol="Type" enabled="0" />
+        <Column LogCol="Date_Time" OrderCol="Date_Time" enabled="1" />
+        <Column LogCol="Piece" OrderCol="Piece" enabled="1" />
+        <Column LogCol="Address" OrderCol="Address" enabled="1" />
+        <Column LogCol="ZIP_Code_11" OrderCol="ZIP_Code" enabled="1" />
+        <Column LogCol="Postage ($)" OrderCol="Postage" enabled="1" />
+        <Column LogCol="Weight (oz)" OrderCol="Weight" enabled="1" />
+        <Column LogCol="Balance ($) " OrderCol="Balance" enabled="0" />
+        <Column LogCol="Service_Class" OrderCol="Service_Class" enabled="1" />
+        <Column LogCol="Optional_Service" OrderCol="Optional_Service" enabled="0" />
+        <Column LogCol="Result_Code" OrderCol="Result_Code" enabled="0" />
+        <Column LogCol="Tracking_ID" OrderCol="Tracking_ID" enabled="1" />
+        <Column LogCol="Declared Value ($)" OrderCol="DeclaredValue" enabled="1" />
+        <Column LogCol="Description" OrderCol="Description" enabled="1" />
+        <Column LogCol="Reference ID" OrderCol="ReferenceID" enabled="1" />
+        <Column LogCol="Group Code" OrderCol="GroupCode" enabled="0" />
+    </ImportFormat>
+    <ImportFormat Name="UPS (no header)" id="4" format="Delimited" type="Numbered" linedelim="&#xD;&#xA;" valueDelim="," textDelim="&quot;">
+        <Column OrderCol="OrderNumber" LogCol="PackageReference1" enabled="1" colnum="0" type="Integer" />
+        <Column OrderCol="ShippedOn" LogCol="ShipmentInformationPickupdate" enabled="1" colnum="1" type="Date" format="YYYYMMDD" />
+        <Column OrderCol="ShippedVIA" LogCol="ShipmentInformationServiceType" enabled="1" colnum="2" type="String">
+        </Column>
+        <Column OrderCol="ShipCost" LogCol="PackagePackageCharge" enabled="1" colnum="3" type="Long">
+        </Column>
+        <Column OrderCol="ShipWeight" LogCol="PackageWeight" enabled="1" colnum="4" type="Integer">
+        </Column>
+        <Column OrderCol="ShipTracking" LogCol="PackageTrackingNumber" enabled="1" colnum="5" type="String">
+        </Column>
+    </ImportFormat>
+    <ExportFormat Name="UPS WorldShip" id="5" format="Delimited" type="Named" linedelim="&#xD;&#xA;" valueDelim="," textDelim="&quot;" defaultFileName="WorldShip.csv">
+        <xColumn OrderCol="OrderNumber" LogCol="OrderNumber" type="Int" enabled="1" colnum="1" />
+        <xColumn OrderCol="ShippingLastName" LogCol="LastName" enabled="1" colnum="2" />
+        <xColumn OrderCol="ShippingFirstName" LogCol="FirstName" enabled="1" colnum="3" />
+        <xColumn OrderCol="ShippingFullName" LogCol="FullName" type="String" enabled="1" colnum="4" />
+        <xColumn OrderCol="ShippingCompany" LogCol="Company" type="String" enabled="1" colnum="5" />
+        <xColumn OrderCol="ShippingAddress1" LogCol="Address1" type="String" enabled="1" colnum="6" />
+        <xColumn OrderCol="ShippingAddress2" LogCol="Address2" type="String" enabled="1" colnum="7" />
+        <xColumn OrderCol="ShippingSuite" LogCol="Suite" type="String" enabled="1" colnum="8" />
+        <xColumn OrderCol="ShippingCity" LogCol="City" type="String" enabled="1" colnum="9" />
+        <xColumn OrderCol="ShippingState" LogCol="State" type="String" enabled="1" colnum="10" />
+        <xColumn OrderCol="ShippingZip" LogCol="Zip" type="String" enabled="1" colnum="11" />
+        <xColumn OrderCol="ShippingCountry" LogCol="Country" type="String" enabled="1" colnum="12" />
+        <xColumn OrderCol="ShippingPhone" LogCol="Phone" type="String" enabled="1" colnum="13" />
+        <xColumn OrderCol="OrderSubtotal" LogCol="OrderSubtotal" type="Int" enabled="1" colnum="14" />
+        <xColumn OrderCol="Email" LogCol="Email" type="String" enabled="1" colnum="15" />
+        <xColumn OrderCol="CustomerID" LogCol="CustomerID" type="Stringdd" enabled="1" colnum="16" />
+        <xColumn OrderCol="ShippingMethod" LogCol="Method" type="String" enabled="1" colnum="17" />
+    </ExportFormat>
+    <ExportFormat Name="FedEx (unfinished)" id="6" format="Delimited" type="Named" linedelim="&#xD;&#xA;" valueDelim="," textDelim="&quot;" defaultFileName="FedEx.csv">
+        <xColumn OrderCol="OrderNumber" LogCol="OrderNumber" type="Int" enabled="1" colnum="1" />
+        <xColumn OrderCol="ShippingLastName" LogCol="LastName" enabled="1" colnum="2" />
+        <xColumn OrderCol="ShippingFirstName" LogCol="FirstName" enabled="1" colnum="3" />
+        <xColumn OrderCol="ShippingFullName" LogCol="FullName" type="String" enabled="1" colnum="4" />
+        <xColumn OrderCol="ShippingCompany" LogCol="Company" type="String" enabled="1" colnum="5" />
+        <xColumn OrderCol="ShippingAddress1" LogCol="Address1" type="String" enabled="1" colnum="6" />
+        <xColumn OrderCol="ShippingAddress2" LogCol="Address2" type="String" enabled="1" colnum="7" />
+        <xColumn OrderCol="ShippingSuite" LogCol="Suite" type="String" enabled="1" colnum="8" />
+        <xColumn OrderCol="ShippingCity" LogCol="City" type="String" enabled="1" colnum="9" />
+        <xColumn OrderCol="ShippingState" LogCol="State" type="String" enabled="1" colnum="10" />
+        <xColumn OrderCol="ShippingZip" LogCol="Zip" type="String" enabled="1" colnum="11" />
+        <xColumn OrderCol="ShippingCountry" LogCol="Country" type="String" enabled="1" colnum="12" />
+        <xColumn OrderCol="ShippingPhone" LogCol="Phone" type="String" enabled="1" colnum="13" />
+        <xColumn OrderCol="OrderSubtotal" LogCol="OrderSubtotal" type="Int" enabled="1" colnum="14" />
+        <xColumn OrderCol="Email" LogCol="Email" type="String" enabled="1" colnum="15" />
+        <xColumn OrderCol="CustomerID" LogCol="CustomerID" type="Stringdd" enabled="1" colnum="16" />
+        <xColumn OrderCol="ShippingMethod" LogCol="Method" type="String" enabled="1" colnum="17" />
+    </ExportFormat>
+   
+</FileFormats>

@@ -1,0 +1,20 @@
+<MenuData ImagesBaseUrl="~/skins/skin_1/images/" OverlayFrameUrl="empty.htm" ExpandDelay="0" CollapseDelay="0" ScrollDownImage="scrolldown.gif" ScrollUpImage="scrollup.gif" xmlns="ExpertMenu Configuration Schema">
+	<MenuGroup MenuLook="TopGroup" DisplayShadow="false">
+		<MenuItem Text="(!menu.Home!)" Url="../../default.aspx" MenuLook="TopItem" />
+		<MenuItem Text="(!menu.Categories!)" MenuLook="TopItem" />
+		<MenuItem Text="(!menu.Sections!)" MenuLook="TopItem" />
+		<MenuItem Text="(!menu.Manufacturers!)" MenuLook="TopItem" />
+		<MenuItem Text="(!menu.CustomerService!)" Url="../../t-faq.aspx" MenuLook="TopItem">
+			<MenuGroup Scrollable="AutoSlide">
+				<MenuItem Text="(!menu.YourAccount!)" Url="../../account.aspx" />
+				<MenuItem Text="(!menu.OrderHistory!)" Url="../../account.aspx" />
+				<MenuItem Text="(!menu.FAQs!)" Url="../../t-faq.aspx" />
+				<MenuItem Text="(!menu.PolicyReturns!)" Url="../../t-returns.aspx" />
+				<MenuItem Text="(!menu.Shipping!)" Url="../../t-shipping.aspx" />
+				<MenuItem Text="(!menu.Contact!)" Url="../../t-contact.aspx" />
+				<MenuItem Text="(!menu.PolicyPrivacy!)" Url="../../t-privacy.aspx" />
+				<MenuItem Text="(!menu.PolicySecurity!)" Url="../../t-security.aspx" />
+			</MenuGroup>
+		</MenuItem>
+	</MenuGroup>
+</MenuData>

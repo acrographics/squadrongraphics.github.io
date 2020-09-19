@@ -1,0 +1,500 @@
+﻿          #BlackMetal_TL {
+          background-image: url(../../images/frames/MN/BlackMetal_TL.gif);
+          background-repeat: no-repeat;
+          background-position: right bottom;
+          }
+          #BlackMetal_TOP {
+          background-image: url(../../images/frames/MN/BlackMetal_TOP.gif);
+          background-repeat: repeat-x;
+          background-position: right bottom;
+          }
+          #BlackMetal_TR {
+          background-image: url(../../images/frames/MN/BlackMetal_TR.gif);
+          background-repeat: no-repeat;
+          background-position: left bottom;
+          }
+          #BlackMetal_LEFT {
+          background-image: url(../../images/frames/MN/BlackMetal_LEFT.gif);
+          background-repeat: repeat-y;
+          background-position:right;
+          }
+          #BlackMetal_RIGHT {
+          background-image: url(../../images/frames/MN/BlackMetal_RIGHT.gif);
+          background-repeat: repeat-y;
+          background-position: left;
+          }
+          #BlackMetal_BL {
+          background-image: url(../../images/frames/MN/BlackMetal_BL.gif);
+          background-repeat: no-repeat;
+          background-position: right top;
+          }
+          #BlackMetal_BOTTOM {
+          background-image: url(../../images/frames/MN/BlackMetal_BOTTOM.gif);
+          background-repeat: repeat-x;
+          background-position: top;
+          }
+          #BlackMetal_BR {
+          background-image: url(../../images/frames/MN/BlackMetal_BR.gif);
+          background-repeat: no-repeat;
+          background-position: left top;
+          }
+
+
+          #GreyMetal_TL {
+          background-image: url(../../images/frames/MN/ContrastGreyMetal_TL.gif);
+          background-repeat: no-repeat;
+          background-position: right bottom;
+          }
+          #GreyMetal_TOP {
+          background-image: url(../../images/frames/MN/ContrastGreyMetal_TOP.gif);
+          background-repeat: repeat-x;
+          background-position: right bottom;
+          }
+          #GreyMetal_TR {
+          background-image: url(../../images/frames/MN/ContrastGreyMetal_TR.gif);
+          background-repeat: no-repeat;
+          background-position: left bottom;
+          }
+          #GreyMetal_LEFT {
+          background-image: url(../../images/frames/MN/ContrastGreyMetal_LEFT.gif);
+          background-repeat: repeat-y;
+          background-position:right;
+          }
+          #GreyMetal_RIGHT {
+          background-image: url(../../images/frames/MN/ContrastGreyMetal_RIGHT.gif);
+          background-repeat: repeat-y;
+          background-position: left;
+          }
+          #GreyMetal_BL {
+          background-image: url(../../images/frames/MN/ContrastGreyMetal_BL.gif);
+          background-repeat: no-repeat;
+          background-position: right top;
+          }
+          #GreyMetal_BOTTOM {
+          background-image: url(../../images/frames/MN/ContrastGreyMetal_BOTTOM.gif);
+          background-repeat: repeat-x;
+          background-position: top;
+          }
+          #GreyMetal_BR {
+          background-image: url(../../images/frames/MN/ContrastGreyMetal_BR.gif);
+          background-repeat: no-repeat;
+          background-position: left top;
+          }
+
+
+          #GoldMetal_TL {
+          background-image: url(../../images/frames/MN/GoldMetal_TL.gif);
+          background-repeat: no-repeat;
+          background-position: right bottom;
+          }
+          #GoldMetal_TOP {
+          background-image: url(../../images/frames/MN/GoldMetal_TOP.gif);
+          background-repeat: repeat-x;
+          background-position: right bottom;
+          }
+          #GoldMetal_TR {
+          background-image: url(../../images/frames/MN/GoldMetal_TR.gif);
+          background-repeat: no-repeat;
+          background-position: left bottom;
+          }
+          #GoldMetal_LEFT {
+          background-image: url(../../images/frames/MN/GoldMetal_LEFT.gif);
+          background-repeat: repeat-y;
+          background-position:right;
+          }
+          #GoldMetal_RIGHT {
+          background-image: url(../../images/frames/MN/GoldMetal_RIGHT.gif);
+          background-repeat: repeat-y;
+          background-position: left;
+          }
+          #GoldMetal_BL {
+          background-image: url(../../images/frames/MN/GoldMetal_BL.gif);
+          background-repeat: no-repeat;
+          background-position: right top;
+          }
+          #GoldMetal_BOTTOM {
+          background-image: url(../../images/frames/MN/GoldMetal_BOTTOM.gif);
+          background-repeat: repeat-x;
+          background-position: top;
+          }
+          #GoldMetal_BR {
+          background-image: url(../../images/frames/MN/GoldMetal_BR.gif);
+          background-repeat: no-repeat;
+          background-position: left top;
+          }
+
+
+          #SilverMetal_TL {
+          background-image: url(../../images/frames/MN/SilverMetal_TL.gif);
+          background-repeat: no-repeat;
+          background-position: right bottom;
+          }
+          #SilverMetal_TOP {
+          background-image: url(../../images/frames/MN/SilverMetal_TOP.gif);
+          background-repeat: repeat-x;
+          background-position: right bottom;
+          }
+          #SilverMetal_TR {
+          background-image: url(../../images/frames/MN/SilverMetal_TR.gif);
+          background-repeat: no-repeat;
+          background-position: left bottom;
+          }
+          #SilverMetal_LEFT {
+          background-image: url(../../images/frames/MN/SilverMetal_LEFT.gif);
+          background-repeat: repeat-y;
+          background-position:right;
+          }
+          #SilverMetal_RIGHT {
+          background-image: url(../../images/frames/MN/SilverMetal_RIGHT.gif);
+          background-repeat: repeat-y;
+          background-position: left;
+          }
+          #SilverMetal_BL {
+          background-image: url(../../images/frames/MN/SilverMetal_BL.gif);
+          background-repeat: no-repeat;
+          background-position: right top;
+          }
+          #SilverMetal_BOTTOM {
+          background-image: url(../../images/frames/MN/SilverMetal_BOTTOM.gif);
+          background-repeat: repeat-x;
+          background-position: top;
+          }
+          #SilverMetal_BR {
+          background-image: url(../../images/frames/MN/SilverMetal_BR.gif);
+          background-repeat: no-repeat;
+          background-position: left top;
+          }
+
+
+          #BlackWood_TL {
+          background-image: url(../../images/frames/MN/BlackWood_TL.jpg);
+          background-repeat: no-repeat;
+          background-position: right bottom;
+          }
+          #BlackWood_TOP {
+          background-image: url(../../images/frames/MN/BlackWood_TOP.jpg);
+          background-repeat: repeat-x;
+          background-position: right bottom;
+          }
+          #BlackWood_TR {
+          background-image: url(../../images/frames/MN/BlackWood_TR.jpg);
+          background-repeat: no-repeat;
+          background-position: left bottom;
+          }
+          #BlackWood_LEFT {
+          background-image: url(../../images/frames/MN/BlackWood_LEFT.jpg);
+          background-repeat: repeat-y;
+          background-position:right;
+          }
+          #BlackWood_RIGHT {
+          background-image: url(../../images/frames/MN/BlackWood_RIGHT.jpg);
+          background-repeat: repeat-y;
+          background-position: left;
+          }
+          #BlackWood_BL {
+          background-image: url(../../images/frames/MN/BlackWood_BL.jpg);
+          background-repeat: no-repeat;
+          background-position: right top;
+          }
+          #BlackWood_BOTTOM {
+          background-image: url(../../images/frames/MN/BlackWood_BOTTOM.jpg);
+          background-repeat: repeat-x;
+          background-position: top;
+          }
+          #BlackWood_BR {
+          background-image: url(../../images/frames/MN/BlackWood_BR.jpg);
+          background-repeat: no-repeat;
+          background-position: left top;
+          }
+
+          #CherryWood2inch_TL {
+          background-image: url(../../images/frames/MN/Cherry_TL.jpg);
+          background-repeat: no-repeat;
+          background-position: right bottom;
+          }
+          #CherryWood2inch_TOP {
+          background-image: url(../../images/frames/MN/Cherry_TOP.jpg);
+          background-repeat: repeat-x;
+          background-position: right bottom;
+          }
+          #CherryWood2inch_TR {
+          background-image: url(../../images/frames/MN/Cherry_TR.jpg);
+          background-repeat: no-repeat;
+          background-position: left bottom;
+          }
+          #CherryWood2inch_LEFT {
+          background-image: url(../../images/frames/MN/Cherry_LEFT.jpg);
+          background-repeat: repeat-y;
+          background-position:right;
+          }
+          #CherryWood2inch_RIGHT {
+          background-image: url(../../images/frames/MN/Cherry_RIGHT.jpg);
+          background-repeat: repeat-y;
+          background-position: left;
+          }
+          #CherryWood2inch_BL {
+          background-image: url(../../images/frames/MN/Cherry_BL.jpg);
+          background-repeat: no-repeat;
+          background-position: right top;
+          }
+          #CherryWood2inch_BOTTOM {
+          background-image: url(../../images/frames/MN/Cherry_BOTTOM.jpg);
+          background-repeat: repeat-x;
+          background-position: top;
+          }
+          #CherryWood2inch_BR {
+          background-image: url(../../images/frames/MN/Cherry_BR.jpg);
+          background-repeat: no-repeat;
+          background-position: left top;
+          }
+
+          #TeakWood_TL {
+          background-image: url(../../images/frames/MN/Teak_TL.jpg);
+          background-repeat: no-repeat;
+          background-position: right bottom;
+          }
+          #TeakWood_TOP {
+          background-image: url(../../images/frames/MN/Teak_TOP.jpg);
+          background-repeat: repeat-x;
+          background-position: right bottom;
+          }
+          #TeakWood_TR {
+          background-image: url(../../images/frames/MN/Teak_TR.jpg);
+          background-repeat: no-repeat;
+          background-position: left bottom;
+          }
+          #TeakWood_LEFT {
+          background-image: url(../../images/frames/MN/Teak_LEFT.jpg);
+          background-repeat: repeat-y;
+          background-position:right;
+          }
+          #TeakWood_RIGHT {
+          background-image: url(../../images/frames/MN/Teak_RIGHT.jpg);
+          background-repeat: repeat-y;
+          background-position: left;
+          }
+          #TeakWood_BL {
+          background-image: url(../../images/frames/MN/Teak_BL.jpg);
+          background-repeat: no-repeat;
+          background-position: right top;
+          }
+          #TeakWood_BOTTOM {
+          background-image: url(../../images/frames/MN/Teak_BOTTOM.jpg);
+          background-repeat: repeat-x;
+          background-position: top;
+          }
+          #TeakWood_BR {
+          background-image: url(../../images/frames/MN/Teak_BR.jpg);
+          background-repeat: no-repeat;
+          background-position: left top;
+          }
+
+
+          #NaturalWood_TL {
+          background-image: url(../../images/frames/MN/Natural_TL.jpg);
+          background-repeat: no-repeat;
+          background-position: right bottom;
+          }
+          #NaturalWood_TOP {
+          background-image: url(../../images/frames/MN/Natural_TOP.jpg);
+          background-repeat: repeat-x;
+          background-position: right bottom;
+          }
+          #NaturalWood_TR {
+          background-image: url(../../images/frames/MN/Natural_TR.jpg);
+          background-repeat: no-repeat;
+          background-position: left bottom;
+          }
+          #NaturalWood_LEFT {
+          background-image: url(../../images/frames/MN/Natural_LEFT.jpg);
+          background-repeat: repeat-y;
+          background-position:right;
+          }
+          #NaturalWood_RIGHT {
+          background-image: url(../../images/frames/MN/Natural_RIGHT.jpg);
+          background-repeat: repeat-y;
+          background-position: left;
+          }
+          #NaturalWood_BL {
+          background-image: url(../../images/frames/MN/Natural_BL.jpg);
+          background-repeat: no-repeat;
+          background-position: right top;
+          }
+          #NaturalWood_BOTTOM {
+          background-image: url(../../images/frames/MN/Natural_BOTTOM.jpg);
+          background-repeat: repeat-x;
+          background-position: top;
+          }
+          #NaturalWood_BR {
+          background-image: url(../../images/frames/MN/Natural_BR.jpg);
+          background-repeat: no-repeat;
+          background-position: left top;
+          }
+          
+          
+          #BlackWood_TL {
+          background-image: url(../../images/frames/MN/BlackWood_TL.gif);
+          background-repeat: no-repeat;
+          background-position: right bottom;
+          }
+          #BlackWood_TOP {
+          background-image: url(../../images/frames/MN/BlackWood_TOP.gif);
+          background-repeat: repeat-x;
+          background-position: right bottom;
+          }
+          #BlackWood_TR {
+          background-image: url(../../images/frames/MN/BlackWood_TR.gif);
+          background-repeat: no-repeat;
+          background-position: left bottom;
+          }
+          #BlackWood_LEFT {
+          background-image: url(../../images/frames/MN/BlackWood_LEFT.gif);
+          background-repeat: repeat-y;
+          background-position:right;
+          }
+          #BlackWood_RIGHT {
+          background-image: url(../../images/frames/MN/BlackWood_RIGHT.gif);
+          background-repeat: repeat-y;
+          background-position: left;
+          }
+          #BlackWood_BL {
+          background-image: url(../../images/frames/MN/BlackWood_BL.gif);
+          background-repeat: no-repeat;
+          background-position: right top;
+          }
+          #BlackWood_BOTTOM {
+          background-image: url(../../images/frames/MN/BlackWood_BOTTOM.gif);
+          background-repeat: repeat-x;
+          background-position: top;
+          }
+          #BlackWood_BR {
+          background-image: url(../../images/frames/MN/BlackWood_BR.gif);
+          background-repeat: no-repeat;
+          background-position: left top;
+          }
+          
+
+
+          #CherryWood_TL {
+          background-image: url(../../images/frames/MN/OneCherry_TL.jpg);
+          background-repeat: no-repeat;
+          background-position: right bottom;
+          }
+          #CherryWood_TOP {
+          background-image: url(../../images/frames/MN/OneCherry_TOP.jpg);
+          background-repeat: repeat-x;
+          background-position: right bottom;
+          }
+          #CherryWood_TR {
+          background-image: url(../../images/frames/MN/OneCherry_TR.jpg);
+          background-repeat: no-repeat;
+          background-position: left bottom;
+          }
+          #CherryWood_LEFT {
+          background-image: url(../../images/frames/MN/OneCherry_LEFT.jpg);
+          background-repeat: repeat-y;
+          background-position:right;
+          }
+          #CherryWood_RIGHT {
+          background-image: url(../../images/frames/MN/OneCherry_RIGHT.jpg);
+          background-repeat: repeat-y;
+          background-position: left;
+          }
+          #CherryWood_BL {
+          background-image: url(../../images/frames/MN/OneCherry_BL.jpg);
+          background-repeat: no-repeat;
+          background-position: right top;
+          }
+          #CherryWood_BOTTOM {
+          background-image: url(../../images/frames/MN/OneCherry_BOTTOM.jpg);
+          background-repeat: repeat-x;
+          background-position: top;
+          }
+          #CherryWood_BR {
+          background-image: url(../../images/frames/MN/OneCherry_BR.jpg);
+          background-repeat: no-repeat;
+          background-position: left top;
+          }
+          
+          #Style1_TL {
+          background-image: url(../../images/frames/MN/noframe_TL.jpg);
+          background-repeat: no-repeat;
+          background-position: right bottom;
+          }
+          #Style1_TOP {
+          background-image: url(../../images/frames/MN/noframe_TOP.jpg);
+          background-repeat: repeat-x;
+          background-position: right bottom;
+          }
+          #Style1_TR {
+          background-image: url(../../images/frames/MN/noframe_TR.jpg);
+          background-repeat: no-repeat;
+          background-position: left bottom;
+          }
+          #Style1_LEFT {
+          background-image: url(../../images/frames/MN/noframe_LEFT.jpg);
+          background-repeat: repeat-y;
+          background-position:right;
+          }
+          #Style1_RIGHT {
+          background-image: url(../../images/frames/MN/noframe_RIGHT.jpg);
+          background-repeat: repeat-y;
+          background-position: left;
+          }
+          #Style1_BL {
+          background-image: url(../../images/frames/MN/noframe_BL.jpg);
+          background-repeat: no-repeat;
+          background-position: right top;
+          }
+          #Style1_BOTTOM {
+          background-image: url(../../images/frames/MN/noframe_BOTTOM.jpg);
+          background-repeat: repeat-x;
+          background-position: top;
+          }
+          #Style1_BR {
+          background-image: url(../../images/frames/MN/noframe_BR.jpg);
+          background-repeat: no-repeat;
+          background-position: left top;
+          }
+          
+          #NoFrameSelected_TL {
+          background-image: url(../../images/frames/MN/noframe_TL.jpg);
+          background-repeat: no-repeat;
+          background-position: right bottom;
+          }
+          #NoFrameSelected_TOP {
+          background-image: url(../../images/frames/MN/noframe_TOP.jpg);
+          background-repeat: repeat-x;
+          background-position: right bottom;
+          }
+          #NoFrameSelected_TR {
+          background-image: url(../../images/frames/MN/noframe_TR.jpg);
+          background-repeat: no-repeat;
+          background-position: left bottom;
+          }
+          #NoFrameSelected_LEFT {
+          background-image: url(../../images/frames/MN/noframe_LEFT.jpg);
+          background-repeat: repeat-y;
+          background-position:right;
+          }
+          #NoFrameSelected_RIGHT {
+          background-image: url(../../images/frames/MN/noframe_RIGHT.jpg);
+          background-repeat: repeat-y;
+          background-position: left;
+          }
+          #NoFrameSelected_BL {
+          background-image: url(../../images/frames/MN/noframe_BL.jpg);
+          background-repeat: no-repeat;
+          background-position: right top;
+          }
+          #NoFrameSelected_BOTTOM {
+          background-image: url(../../images/frames/MN/noframe_BOTTOM.jpg);
+          background-repeat: repeat-x;
+          background-position: top;
+          }
+          #NoFrameSelected_BR {
+          background-image: url(../../images/frames/MN/noframe_BR.jpg);
+          background-repeat: no-repeat;
+          background-position: left top;
+          }
+          

@@ -1,0 +1,1 @@
+<%@ Page language="c#" Inherits="FrameStudio.get_framedprice" CodeFile="get_framedprice.aspx.cs" %>

@@ -1,0 +1,415 @@
+﻿          #BlackMetal_TL {
+          background-image: url(../../images/frames/LG/BlackMetal_TL.gif);
+          background-repeat: no-repeat;
+          background-position: right bottom;
+          }
+          #BlackMetal_TOP {
+          background-image: url(../../images/frames/LG/BlackMetal_TOP.gif);
+          background-repeat: repeat-x;
+          background-position: right bottom;
+          }
+          #BlackMetal_TR {
+          background-image: url(../../images/frames/LG/BlackMetal_TR.gif);
+          background-repeat: no-repeat;
+          background-position: left bottom;
+          }
+          #BlackMetal_LEFT {
+          background-image: url(../../images/frames/LG/BlackMetal_LEFT.gif);
+          background-repeat: repeat-y;
+          background-position:right;
+          }
+          #BlackMetal_RIGHT {
+          background-image: url(../../images/frames/LG/BlackMetal_RIGHT.gif);
+          background-repeat: repeat-y;
+          background-position: left;
+          }
+          #BlackMetal_BL {
+          background-image: url(../../images/frames/LG/BlackMetal_BL.gif);
+          background-repeat: no-repeat;
+          background-position: right top;
+          }
+          #BlackMetal_BOTTOM {
+          background-image: url(../../images/frames/LG/BlackMetal_BOTTOM.gif);
+          background-repeat: repeat-x;
+          background-position: top;
+          }
+          #BlackMetal_BR {
+          background-image: url(../../images/frames/LG/BlackMetal_BR.gif);
+          background-repeat: no-repeat;
+          background-position: left top;
+          }
+
+
+          #GreyMetal_TL {
+          background-image: url(../../images/frames/LG/ContrastGreyMetal_TL.gif);
+          background-repeat: no-repeat;
+          background-position: right bottom;
+          }
+          #GreyMetal_TOP {
+          background-image: url(../../images/frames/LG/ContrastGreyMetal_TOP.gif);
+          background-repeat: repeat-x;
+          background-position: right bottom;
+          }
+          #GreyMetal_TR {
+          background-image: url(../../images/frames/LG/ContrastGreyMetal_TR.gif);
+          background-repeat: no-repeat;
+          background-position: left bottom;
+          }
+          #GreyMetal_LEFT {
+          background-image: url(../../images/frames/LG/ContrastGreyMetal_LEFT.gif);
+          background-repeat: repeat-y;
+          background-position:right;
+          }
+          #GreyMetal_RIGHT {
+          background-image: url(../../images/frames/LG/ContrastGreyMetal_RIGHT.gif);
+          background-repeat: repeat-y;
+          background-position: left;
+          }
+          #GreyMetal_BL {
+          background-image: url(../../images/frames/LG/ContrastGreyMetal_BL.gif);
+          background-repeat: no-repeat;
+          background-position: right top;
+          }
+          #GreyMetal_BOTTOM {
+          background-image: url(../../images/frames/LG/ContrastGreyMetal_BOTTOM.gif);
+          background-repeat: repeat-x;
+          background-position: top;
+          }
+          #GreyMetal_BR {
+          background-image: url(../../images/frames/LG/ContrastGreyMetal_BR.gif);
+          background-repeat: no-repeat;
+          background-position: left top;
+          }
+
+
+          #GoldMetal_TL {
+          background-image: url(../../images/frames/LG/GoldMetal_TL.gif);
+          background-repeat: no-repeat;
+          background-position: right bottom;
+          }
+          #GoldMetal_TOP {
+          background-image: url(../../images/frames/LG/GoldMetal_TOP.gif);
+          background-repeat: repeat-x;
+          background-position: right bottom;
+          }
+          #GoldMetal_TR {
+          background-image: url(../../images/frames/LG/GoldMetal_TR.gif);
+          background-repeat: no-repeat;
+          background-position: left bottom;
+          }
+          #GoldMetal_LEFT {
+          background-image: url(../../images/frames/LG/GoldMetal_LEFT.gif);
+          background-repeat: repeat-y;
+          background-position:right;
+          }
+          #GoldMetal_RIGHT {
+          background-image: url(../../images/frames/LG/GoldMetal_RIGHT.gif);
+          background-repeat: repeat-y;
+          background-position: left;
+          }
+          #GoldMetal_BL {
+          background-image: url(../../images/frames/LG/GoldMetal_BL.gif);
+          background-repeat: no-repeat;
+          background-position: right top;
+          }
+          #GoldMetal_BOTTOM {
+          background-image: url(../../images/frames/LG/GoldMetal_BOTTOM.gif);
+          background-repeat: repeat-x;
+          background-position: top;
+          }
+          #GoldMetal_BR {
+          background-image: url(../../images/frames/LG/GoldMetal_BR.gif);
+          background-repeat: no-repeat;
+          background-position: left top;
+          }
+
+
+          #SilverMetal_TL {
+          background-image: url(../../images/frames/LG/SilverMetal_TL.gif);
+          background-repeat: no-repeat;
+          background-position: right bottom;
+          }
+          #SilverMetal_TOP {
+          background-image: url(../../images/frames/LG/SilverMetal_TOP.gif);
+          background-repeat: repeat-x;
+          background-position: right bottom;
+          }
+          #SilverMetal_TR {
+          background-image: url(../../images/frames/LG/SilverMetal_TR.gif);
+          background-repeat: no-repeat;
+          background-position: left bottom;
+          }
+          #SilverMetal_LEFT {
+          background-image: url(../../images/frames/LG/SilverMetal_LEFT.gif);
+          background-repeat: repeat-y;
+          background-position:right;
+          }
+          #SilverMetal_RIGHT {
+          background-image: url(../../images/frames/LG/SilverMetal_RIGHT.gif);
+          background-repeat: repeat-y;
+          background-position: left;
+          }
+          #SilverMetal_BL {
+          background-image: url(../../images/frames/LG/SilverMetal_BL.gif);
+          background-repeat: no-repeat;
+          background-position: right top;
+          }
+          #SilverMetal_BOTTOM {
+          background-image: url(../../images/frames/LG/SilverMetal_BOTTOM.gif);
+          background-repeat: repeat-x;
+          background-position: top;
+          }
+          #SilverMetal_BR {
+          background-image: url(../../images/frames/LG/SilverMetal_BR.gif);
+          background-repeat: no-repeat;
+          background-position: left top;
+          }
+
+
+          #BlackWood_TL {
+          background-image: url(../../images/frames/LG/BlackWood_TL.jpg);
+          background-repeat: no-repeat;
+          background-position: right bottom;
+          }
+          #BlackWood_TOP {
+          background-image: url(../../images/frames/LG/BlackWood_TOP.jpg);
+          background-repeat: repeat-x;
+          background-position: right bottom;
+          }
+          #BlackWood_TR {
+          background-image: url(../../images/frames/LG/BlackWood_TR.jpg);
+          background-repeat: no-repeat;
+          background-position: left bottom;
+          }
+          #BlackWood_LEFT {
+          background-image: url(../../images/frames/LG/BlackWood_LEFT.jpg);
+          background-repeat: repeat-y;
+          background-position:right;
+          }
+          #BlackWood_RIGHT {
+          background-image: url(../../images/frames/LG/BlackWood_RIGHT.jpg);
+          background-repeat: repeat-y;
+          background-position: left;
+          }
+          #BlackWood_BL {
+          background-image: url(../../images/frames/LG/BlackWood_BL.jpg);
+          background-repeat: no-repeat;
+          background-position: right top;
+          }
+          #BlackWood_BOTTOM {
+          background-image: url(../../images/frames/LG/BlackWood_BOTTOM.jpg);
+          background-repeat: repeat-x;
+          background-position: top;
+          }
+          #BlackWood_BR {
+          background-image: url(../../images/frames/LG/BlackWood_BR.jpg);
+          background-repeat: no-repeat;
+          background-position: left top;
+          }
+
+          #LargeCherryWood_TL {
+          background-image: url(../../images/frames/LG/Cherry_TL.jpg);
+          background-repeat: no-repeat;
+          background-position: right bottom;
+          }
+          #LargeCherryWood_TOP {
+          background-image: url(../../images/frames/LG/Cherry_TOP.jpg);
+          background-repeat: repeat-x;
+          background-position: right bottom;
+          }
+          #LargeCherryWood_TR {
+          background-image: url(../../images/frames/LG/Cherry_TR.jpg);
+          background-repeat: no-repeat;
+          background-position: left bottom;
+          }
+          #LargeCherryWood_LEFT {
+          background-image: url(../../images/frames/LG/Cherry_LEFT.jpg);
+          background-repeat: repeat-y;
+          background-position:right;
+          }
+          #LargeCherryWood_RIGHT {
+          background-image: url(../../images/frames/LG/Cherry_RIGHT.jpg);
+          background-repeat: repeat-y;
+          background-position: left;
+          }
+          #LargeCherryWood_BL {
+          background-image: url(../../images/frames/LG/Cherry_BL.jpg);
+          background-repeat: no-repeat;
+          background-position: right top;
+          }
+          #LargeCherryWood_BOTTOM {
+          background-image: url(../../images/frames/LG/Cherry_BOTTOM.jpg);
+          background-repeat: repeat-x;
+          background-position: top;
+          }
+          #LargeCherryWood_BR {
+          background-image: url(../../images/frames/LG/Cherry_BR.jpg);
+          background-repeat: no-repeat;
+          background-position: left top;
+          }
+
+          #TeakWood_TL {
+          background-image: url(../../images/frames/LG/Teak_TL.jpg);
+          background-repeat: no-repeat;
+          background-position: right bottom;
+          }
+          #TeakWood_TOP {
+          background-image: url(../../images/frames/LG/Teak_TOP.jpg);
+          background-repeat: repeat-x;
+          background-position: right bottom;
+          }
+          #TeakWood_TR {
+          background-image: url(../../images/frames/LG/Teak_TR.jpg);
+          background-repeat: no-repeat;
+          background-position: left bottom;
+          }
+          #TeakWood_LEFT {
+          background-image: url(../../images/frames/LG/Teak_LEFT.jpg);
+          background-repeat: repeat-y;
+          background-position:right;
+          }
+          #TeakWood_RIGHT {
+          background-image: url(../../images/frames/LG/Teak_RIGHT.jpg);
+          background-repeat: repeat-y;
+          background-position: left;
+          }
+          #TeakWood_BL {
+          background-image: url(../../images/frames/LG/Teak_BL.jpg);
+          background-repeat: no-repeat;
+          background-position: right top;
+          }
+          #TeakWood_BOTTOM {
+          background-image: url(../../images/frames/LG/Teak_BOTTOM.jpg);
+          background-repeat: repeat-x;
+          background-position: top;
+          }
+          #TeakWood_BR {
+          background-image: url(../../images/frames/LG/Teak_BR.jpg);
+          background-repeat: no-repeat;
+          background-position: left top;
+          }
+
+
+          #SmallCherryWood_TL {
+          background-image: url(../../images/frames/LG/OneCherry_TL.jpg);
+          background-repeat: no-repeat;
+          background-position: right bottom;
+          }
+          #SmallCherryWood_TOP {
+          background-image: url(../../images/frames/LG/OneCherry_TOP.jpg);
+          background-repeat: repeat-x;
+          background-position: right bottom;
+          }
+          #SmallCherryWood_TR {
+          background-image: url(../../images/frames/LG/OneCherry_TR.jpg);
+          background-repeat: no-repeat;
+          background-position: left bottom;
+          }
+          #SmallCherryWood_LEFT {
+          background-image: url(../../images/frames/LG/OneCherry_LEFT.jpg);
+          background-repeat: repeat-y;
+          background-position:right;
+          }
+          #SmallCherryWood_RIGHT {
+          background-image: url(../../images/frames/LG/OneCherry_RIGHT.jpg);
+          background-repeat: repeat-y;
+          background-position: left;
+          }
+          #SmallCherryWood_BL {
+          background-image: url(../../images/frames/LG/OneCherry_BL.jpg);
+          background-repeat: no-repeat;
+          background-position: right top;
+          }
+          #SmallCherryWood_BOTTOM {
+          background-image: url(../../images/frames/LG/OneCherry_BOTTOM.jpg);
+          background-repeat: repeat-x;
+          background-position: top;
+          }
+          #SmallCherryWood_BR {
+          background-image: url(../../images/frames/LG/OneCherry_BR.jpg);
+          background-repeat: no-repeat;
+          background-position: left top;
+          }
+          
+          #Style1_TL {
+          background-image: url(../../images/frames/LG/noframe_TL.jpg);
+          background-repeat: no-repeat;
+          background-position: right bottom;
+          }
+          #Style1_TOP {
+          background-image: url(../../images/frames/LG/noframe_TOP.jpg);
+          background-repeat: repeat-x;
+          background-position: right bottom;
+          }
+          #Style1_TR {
+          background-image: url(../../images/frames/LG/noframe_TR.jpg);
+          background-repeat: no-repeat;
+          background-position: left bottom;
+          }
+          #Style1_LEFT {
+          background-image: url(../../images/frames/LG/noframe_LEFT.jpg);
+          background-repeat: repeat-y;
+          background-position:right;
+          }
+          #Style1_RIGHT {
+          background-image: url(../../images/frames/LG/noframe_RIGHT.jpg);
+          background-repeat: repeat-y;
+          background-position: left;
+          }
+          #Style1_BL {
+          background-image: url(../../images/frames/LG/noframe_BL.jpg);
+          background-repeat: no-repeat;
+          background-position: right top;
+          }
+          #Style1_BOTTOM {
+          background-image: url(../../images/frames/LG/noframe_BOTTOM.jpg);
+          background-repeat: repeat-x;
+          background-position: top;
+          }
+          #Style1_BR {
+          background-image: url(../../images/frames/LG/noframe_BR.jpg);
+          background-repeat: no-repeat;
+          background-position: left top;
+          }
+          
+          #NoFrameSelected_TL {
+          background-image: url(../../images/frames/LG/noframe_TL.jpg);
+          background-repeat: no-repeat;
+          background-position: right bottom;
+          }
+          #NoFrameSelected_TOP {
+          background-image: url(../../images/frames/LG/noframe_TOP.jpg);
+          background-repeat: repeat-x;
+          background-position: right bottom;
+          }
+          #NoFrameSelected_TR {
+          background-image: url(../../images/frames/LG/noframe_TR.jpg);
+          background-repeat: no-repeat;
+          background-position: left bottom;
+          }
+          #NoFrameSelected_LEFT {
+          background-image: url(../../images/frames/LG/noframe_LEFT.jpg);
+          background-repeat: repeat-y;
+          background-position:right;
+          }
+          #NoFrameSelected_RIGHT {
+          background-image: url(../../images/frames/LG/noframe_RIGHT.jpg);
+          background-repeat: repeat-y;
+          background-position: left;
+          }
+          #NoFrameSelected_BL {
+          background-image: url(../../images/frames/LG/noframe_BL.jpg);
+          background-repeat: no-repeat;
+          background-position: right top;
+          }
+          #NoFrameSelected_BOTTOM {
+          background-image: url(../../images/frames/LG/noframe_BOTTOM.jpg);
+          background-repeat: repeat-x;
+          background-position: top;
+          }
+          #NoFrameSelected_BR {
+          background-image: url(../../images/frames/LG/noframe_BR.jpg);
+          background-repeat: no-repeat;
+          background-position: left top;
+          }
+          

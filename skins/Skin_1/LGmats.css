@@ -1,0 +1,667 @@
+﻿          #DarkBlueRedDoubleMat_TL {
+          background-image: url(../../images/mats/LG/BlueDrkRed_TL.gif);
+          background-repeat: no-repeat;
+          }
+          #DarkBlueRedDoubleMat_TOP {
+          background-image: url(../../images/mats/LG/BlueDrkRed_TOP.gif);
+          background-repeat: repeat-x;
+          }
+          #DarkBlueRedDoubleMat_TR {
+          background-image: url(../../images/mats/LG/BlueDrkRed_TR.gif);
+          background-repeat: no-repeat;
+          }
+          #DarkBlueRedDoubleMat_LEFT {
+          background-image: url(../../images/mats/LG/BlueDrkRed_LEFT.gif);
+          background-repeat: repeat-y;
+          }
+          #DarkBlueRedDoubleMat_RIGHT {
+          background-image: url(../../images/mats/LG/BlueDrkRed_RIGHT.gif);
+          background-repeat: repeat-y;
+          }
+          #DarkBlueRedDoubleMat_BL {
+          background-image: url(../../images/mats/LG/BlueDrkRed_BL.gif);
+          background-repeat: no-repeat;
+          }
+          #DarkBlueRedDoubleMat_BOTTOM {
+          background-image: url(../../images/mats/LG/BlueDrkRed_BOTTOM.gif);
+          background-repeat: repeat-x;
+          }
+          #DarkBlueRedDoubleMat_BR {
+          background-image: url(../../images/mats/LG/BlueDrkRed_BR.gif);
+          background-repeat: no-repeat;
+          }
+
+
+          #BlueWhite_TL {
+          background-image: url(../../images/mats/LG/BlueWhite_TL.gif);
+          background-repeat: no-repeat;
+          }
+          #BlueWhite_TOP {
+          background-image: url(../../images/mats/LG/BlueWhite_TOP.gif);
+          background-repeat: repeat-x;
+          }
+          #BlueWhite_TR {
+          background-image: url(../../images/mats/LG/BlueWhite_TR.gif);
+          background-repeat: no-repeat;
+          }
+          #BlueWhite_LEFT {
+          background-image: url(../../images/mats/LG/BlueWhite_LEFT.gif);
+          background-repeat: repeat-y;
+          }
+          #BlueWhite_RIGHT {
+          background-image: url(../../images/mats/LG/BlueWhite_RIGHT.gif);
+          background-repeat: repeat-y;
+          }
+          #BlueWhite_BL {
+          background-image: url(../../images/mats/LG/BlueWhite_BL.gif);
+          background-repeat: no-repeat;
+          }
+          #BlueWhite_BOTTOM {
+          background-image: url(../../images/mats/LG/BlueWhite_BOTTOM.gif);
+          background-repeat: repeat-x;
+          }
+          #BlueWhite_BR {
+          background-image: url(../../images/mats/LG/BlueWhite_BR.gif);
+          background-repeat: no-repeat;
+          }
+
+          #LightGrayBlackDoubleMat_TL {
+          background-image: url(../../images/mats/LG/GreyBlack_TL.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayBlackDoubleMat_TOP {
+          background-image: url(../../images/mats/LG/GreyBlack_TOP.gif);
+          background-repeat: repeat-x;
+          }
+          #LightGrayBlackDoubleMat_TR {
+          background-image: url(../../images/mats/LG/GreyBlack_TR.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayBlackDoubleMat_LEFT {
+          background-image: url(../../images/mats/LG/GreyBlack_LEFT.gif);
+          background-repeat: repeat-y;
+          }
+          #LightGrayBlackDoubleMat_RIGHT {
+          background-image: url(../../images/mats/LG/GreyBlack_RIGHT.gif);
+          background-repeat: repeat-y;
+          }
+          #LightGrayBlackDoubleMat_BL {
+          background-image: url(../../images/mats/LG/GreyBlack_BL.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayBlackDoubleMat_BOTTOM {
+          background-image: url(../../images/mats/LG/GreyBlack_BOTTOM.gif);
+          background-repeat: repeat-x;
+          }
+          #LightGrayBlackDoubleMat_BR {
+          background-image: url(../../images/mats/LG/GreyBlack_BR.gif);
+          background-repeat: no-repeat;
+          }
+
+
+
+          #DarkBlueRedDoubleMat_TL {
+          background-image: url(../../images/mats/LG/BlueOrange_TL.gif);
+          background-repeat: no-repeat;
+          }
+          #DarkBlueRedDoubleMat_TOP {
+          background-image: url(../../images/mats/LG/BlueOrange_TOP.gif);
+          background-repeat: repeat-x;
+          }
+          #DarkBlueRedDoubleMat_TR {
+          background-image: url(../../images/mats/LG/BlueOrange_TR.gif);
+          background-repeat: no-repeat;
+          }
+          #DarkBlueRedDoubleMat_LEFT {
+          background-image: url(../../images/mats/LG/BlueOrange_LEFT.gif);
+          background-repeat: repeat-y;
+          }
+          #DarkBlueRedDoubleMat_RIGHT {
+          background-image: url(../../images/mats/LG/BlueOrange_RIGHT.gif);
+          background-repeat: repeat-y;
+          }
+          #DarkBlueRedDoubleMat_BL {
+          background-image: url(../../images/mats/LG/BlueOrange_BL.gif);
+          background-repeat: no-repeat;
+          }
+          #DarkBlueRedDoubleMat_BOTTOM {
+          background-image: url(../../images/mats/LG/BlueOrange_BOTTOM.gif);
+          background-repeat: repeat-x;
+          }
+          #DarkBlueRedDoubleMat_BR {
+          background-image: url(../../images/mats/LG/BlueOrange_BR.gif);
+          background-repeat: no-repeat;
+          }
+
+          #LightGrayOrangeDoubleMat_TL {
+          background-image: url(../../images/mats/LG/GreyOrange_TL.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayOrangeDoubleMat_TOP {
+          background-image: url(../../images/mats/LG/GreyOrange_TOP.gif);
+          background-repeat: repeat-x;
+          }
+          #LightGrayOrangeDoubleMat_TR {
+          background-image: url(../../images/mats/LG/GreyOrange_TR.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayOrangeDoubleMat_LEFT {
+          background-image: url(../../images/mats/LG/GreyOrange_LEFT.gif);
+          background-repeat: repeat-y;
+          }
+          #LightGrayOrangeDoubleMat_RIGHT {
+          background-image: url(../../images/mats/LG/GreyOrange_RIGHT.gif);
+          background-repeat: repeat-y;
+          }
+          #LightGrayOrangeDoubleMat_BL {
+          background-image: url(../../images/mats/LG/GreyOrange_BL.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayOrangeDoubleMat_BOTTOM {
+          background-image: url(../../images/mats/LG/GreyOrange_BOTTOM.gif);
+          background-repeat: repeat-x;
+          }
+          #LightGrayOrangeDoubleMat_BR {
+          background-image: url(../../images/mats/LG/GreyOrange_BR.gif);
+          background-repeat: no-repeat;
+          }
+
+          #LightGrayGreenDoubleMat_TL {
+          background-image: url(../../images/mats/LG/GreyGreen_TL.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayGreenDoubleMat_TOP {
+          background-image: url(../../images/mats/LG/GreyGreen_TOP.gif);
+          background-repeat: repeat-x;
+          }
+          #LightGrayGreenDoubleMat_TR {
+          background-image: url(../../images/mats/LG/GreyGreen_TR.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayGreenDoubleMat_LEFT {
+          background-image: url(../../images/mats/LG/GreyGreen_LEFT.gif);
+          background-repeat: repeat-y;
+          }
+          #LightGrayGreenDoubleMat_RIGHT {
+          background-image: url(../../images/mats/LG/GreyGreen_RIGHT.gif);
+          background-repeat: repeat-y;
+          }
+          #LightGrayGreenDoubleMat_BL {
+          background-image: url(../../images/mats/LG/GreyGreen_BL.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayGreenDoubleMat_BOTTOM {
+          background-image: url(../../images/mats/LG/GreyGreen_BOTTOM.gif);
+          background-repeat: repeat-x;
+          }
+          #LightGrayGreenDoubleMat_BR {
+          background-image: url(../../images/mats/LG/GreyGreen_BR.gif);
+          background-repeat: no-repeat;
+          }
+
+
+
+          #LightGrayRedDoubleMat_TL {
+          background-image: url(../../images/mats/LG/GreyRed_TL.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayRedDoubleMat_TOP {
+          background-image: url(../../images/mats/LG/GreyRed_TOP.gif);
+          background-repeat: repeat-x;
+          }
+          #LightGrayRedDoubleMat_TR {
+          background-image: url(../../images/mats/LG/GreyRed_TR.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayRedDoubleMat_LEFT {
+          background-image: url(../../images/mats/LG/GreyRed_LEFT.gif);
+          background-repeat: repeat-y;
+          }
+          #LightGrayRedDoubleMat_RIGHT {
+          background-image: url(../../images/mats/LG/GreyRed_RIGHT.gif);
+          background-repeat: repeat-y;
+          }
+          #LightGrayRedDoubleMat_BL {
+          background-image: url(../../images/mats/LG/GreyRed_BL.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayRedDoubleMat_BOTTOM {
+          background-image: url(../../images/mats/LG/GreyRed_BOTTOM.gif);
+          background-repeat: repeat-x;
+          }
+          #LightGrayRedDoubleMat_BR {
+          background-image: url(../../images/mats/LG/GreyRed_BR.gif);
+          background-repeat: no-repeat;
+          }
+
+          #LightGrayPurpleDoubleMat_TL {
+          background-image: url(../../images/mats/LG/GreyPurple_TL.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayPurpleDoubleMat_TOP {
+          background-image: url(../../images/mats/LG/GreyPurple_TOP.gif);
+          background-repeat: repeat-x;
+          }
+          #LightGrayPurpleDoubleMat_TR {
+          background-image: url(../../images/mats/LG/GreyPurple_TR.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayPurpleDoubleMat_LEFT {
+          background-image: url(../../images/mats/LG/GreyPurple_LEFT.gif);
+          background-repeat: repeat-y;
+          }
+          #LightGrayPurpleDoubleMat_RIGHT {
+          background-image: url(../../images/mats/LG/GreyPurple_RIGHT.gif);
+          background-repeat: repeat-y;
+          }
+          #LightGrayPurpleDoubleMat_BL {
+          background-image: url(../../images/mats/LG/GreyPurple_BL.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayPurpleDoubleMat_BOTTOM {
+          background-image: url(../../images/mats/LG/GreyPurple_BOTTOM.gif);
+          background-repeat: repeat-x;
+          }
+          #LightGrayPurpleDoubleMat_BR {
+          background-image: url(../../images/mats/LG/GreyPurple_BR.gif);
+          background-repeat: no-repeat;
+          }
+
+          #LightGrayYellowDoubleMat_TL {
+          background-image: url(../../images/mats/LG/GreyYellow_TL.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayYellowDoubleMat_TOP {
+          background-image: url(../../images/mats/LG/GreyYellow_TOP.gif);
+          background-repeat: repeat-x;
+          }
+          #LightGrayYellowDoubleMat_TR {
+          background-image: url(../../images/mats/LG/GreyYellow_TR.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayYellowDoubleMat_LEFT {
+          background-image: url(../../images/mats/LG/GreyYellow_LEFT.gif);
+          background-repeat: repeat-y;
+          }
+          #LightGrayYellowDoubleMat_RIGHT {
+          background-image: url(../../images/mats/LG/GreyYellow_RIGHT.gif);
+          background-repeat: repeat-y;
+          }
+          #LightGrayYellowDoubleMat_BL {
+          background-image: url(../../images/mats/LG/GreyYellow_BL.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayYellowDoubleMat_BOTTOM {
+          background-image: url(../../images/mats/LG/GreyYellow_BOTTOM.gif);
+          background-repeat: repeat-x;
+          }
+          #LightGrayYellowDoubleMat_BR {
+          background-image: url(../../images/mats/LG/GreyYellow_BR.gif);
+          background-repeat: no-repeat;
+          }
+
+          #GreenBlackDoubleMat_TL {
+          background-image: url(../../images/mats/LG/GreenBlack_TL.gif);
+          background-repeat: no-repeat;
+          }
+          #GreenBlackDoubleMat_TOP {
+          background-image: url(../../images/mats/LG/GreenBlack_TOP.gif);
+          background-repeat: repeat-x;
+          }
+          #GreenBlackDoubleMat_TR {
+          background-image: url(../../images/mats/LG/GreenBlack_TR.gif);
+          background-repeat: no-repeat;
+          }
+          #GreenBlackDoubleMat_LEFT {
+          background-image: url(../../images/mats/LG/GreenBlack_LEFT.gif);
+          background-repeat: repeat-y;
+          }
+          #GreenBlackDoubleMat_RIGHT {
+          background-image: url(../../images/mats/LG/GreenBlack_RIGHT.gif);
+          background-repeat: repeat-y;
+          }
+          #GreenBlackDoubleMat_BL {
+          background-image: url(../../images/mats/LG/GreenBlack_BL.gif);
+          background-repeat: no-repeat;
+          }
+          #GreenBlackDoubleMat_BOTTOM {
+          background-image: url(../../images/mats/LG/GreenBlack_BOTTOM.gif);
+          background-repeat: repeat-x;
+          }
+          #GreenBlackDoubleMat_BR {
+          background-image: url(../../images/mats/LG/GreenBlack_BR.gif);
+          background-repeat: no-repeat;
+          }
+
+          #GreenBlue_TL {
+          background-image: url(../../images/mats/LG/GreenBlue_TL.gif);
+          background-repeat: no-repeat;
+          }
+          #GreenBlue_TOP {
+          background-image: url(../../images/mats/LG/GreenBlue_TOP.gif);
+          background-repeat: repeat-x;
+          }
+          #GreenBlue_TR {
+          background-image: url(../../images/mats/LG/GreenBlue_TR.gif);
+          background-repeat: no-repeat;
+          }
+          #GreenBlue_LEFT {
+          background-image: url(../../images/mats/LG/GreenBlue_LEFT.gif);
+          background-repeat: repeat-y;
+          }
+          #GreenBlue_RIGHT {
+          background-image: url(../../images/mats/LG/GreenBlue_RIGHT.gif);
+          background-repeat: repeat-y;
+          }
+          #GreenBlue_BL {
+          background-image: url(../../images/mats/LG/GreenBlue_BL.gif);
+          background-repeat: no-repeat;
+          }
+          #GreenBlue_BOTTOM {
+          background-image: url(../../images/mats/LG/GreenBlue_BOTTOM.gif);
+          background-repeat: repeat-x;
+          }
+          #GreenBlue_BR {
+          background-image: url(../../images/mats/LG/GreenBlue_BR.gif);
+          background-repeat: no-repeat;
+          }
+
+          #GreenYellowDoubleMat_TL {
+          background-image: url(../../images/mats/LG/GreenYellow_TL.gif);
+          background-repeat: no-repeat;
+          }
+          #GreenYellowDoubleMat_TOP {
+          background-image: url(../../images/mats/LG/GreenYellow_TOP.gif);
+          background-repeat: repeat-x;
+          }
+          #GreenYellowDoubleMat_TR {
+          background-image: url(../../images/mats/LG/GreenYellow_TR.gif);
+          background-repeat: no-repeat;
+          }
+          #GreenYellowDoubleMat_LEFT {
+          background-image: url(../../images/mats/LG/GreenYellow_LEFT.gif);
+          background-repeat: repeat-y;
+          }
+          #GreenYellowDoubleMat_RIGHT {
+          background-image: url(../../images/mats/LG/GreenYellow_RIGHT.gif);
+          background-repeat: repeat-y;
+          }
+          #GreenYellowDoubleMat_BL {
+          background-image: url(../../images/mats/LG/GreenYellow_BL.gif);
+          background-repeat: no-repeat;
+          }
+          #GreenYellowDoubleMat_BOTTOM {
+          background-image: url(../../images/mats/LG/GreenYellow_BOTTOM.gif);
+          background-repeat: repeat-x;
+          }
+          #GreenYellowDoubleMat_BR {
+          background-image: url(../../images/mats/LG/GreenYellow_BR.gif);
+          background-repeat: no-repeat;
+          }
+
+          #GreenDarkRedDoubleMat_TL {
+          background-image: url(../../images/mats/LG/GreenDrkRed_TL.gif);
+          background-repeat: no-repeat;
+          }
+          #GreenDarkRedDoubleMat_TOP {
+          background-image: url(../../images/mats/LG/GreenDrkRed_TOP.gif);
+          background-repeat: repeat-x;
+          }
+          #GreenDarkRedDoubleMat_TR {
+          background-image: url(../../images/mats/LG/GreenDrkRed_TR.gif);
+          background-repeat: no-repeat;
+          }
+          #GreenDarkRedDoubleMat_LEFT {
+          background-image: url(../../images/mats/LG/GreenDrkRed_LEFT.gif);
+          background-repeat: repeat-y;
+          }
+          #GreenDarkRedDoubleMat_RIGHT {
+          background-image: url(../../images/mats/LG/GreenDrkRed_RIGHT.gif);
+          background-repeat: repeat-y;
+          }
+          #GreenDarkRedDoubleMat_BL {
+          background-image: url(../../images/mats/LG/GreenDrkRed_BL.gif);
+          background-repeat: no-repeat;
+          }
+          #GreenDarkRedDoubleMat_BOTTOM {
+          background-image: url(../../images/mats/LG/GreenDrkRed_BOTTOM.gif);
+          background-repeat: repeat-x;
+          }
+          #GreenDarkRedDoubleMat_BR {
+          background-image: url(../../images/mats/LG/GreenDrkRed_BR.gif);
+          background-repeat: no-repeat;
+          }
+
+          #DarkBlueWhiteCore_TL {
+          background-image: url(../../images/mats/LG/DrkBlueWhtCore_TL.gif);
+          background-repeat: no-repeat;
+          }
+          #DarkBlueWhiteCore_TOP {
+          background-image: url(../../images/mats/LG/DrkBlueWhtCore_TOP.gif);
+          background-repeat: repeat-x;
+          }
+          #DarkBlueWhiteCore_TR {
+          background-image: url(../../images/mats/LG/DrkBlueWhtCore_TR.gif);
+          background-repeat: no-repeat;
+          }
+          #DarkBlueWhiteCore_LEFT {
+          background-image: url(../../images/mats/LG/DrkBlueWhtCore_LEFT.gif);
+          background-repeat: repeat-y;
+          }
+          #DarkBlueWhiteCore_RIGHT {
+          background-image: url(../../images/mats/LG/DrkBlueWhtCore_RIGHT.gif);
+          background-repeat: repeat-y;
+          }
+          #DarkBlueWhiteCore_BL {
+          background-image: url(../../images/mats/LG/DrkBlueWhtCore_BL.gif);
+          background-repeat: no-repeat;
+          }
+          #DarkBlueWhiteCore_BOTTOM {
+          background-image: url(../../images/mats/LG/DrkBlueWhtCore_BOTTOM.gif);
+          background-repeat: repeat-x;
+          }
+          #DarkBlueWhiteCore_BR {
+          background-image: url(../../images/mats/LG/DrkBlueWhtCore_BR.gif);
+          background-repeat: no-repeat;
+          }
+
+          #DarkBlueOrangeDoubleMat_TL {
+          background-image: url(../../images/mats/LG/DrkBlueBrntOrange_TL.gif);
+          background-repeat: no-repeat;
+          }
+          #DarkBlueOrangeDoubleMat_TOP {
+          background-image: url(../../images/mats/LG/DrkBlueBrntOrange_TOP.gif);
+          background-repeat: repeat-x;
+          }
+          #DarkBlueOrangeDoubleMat_TR {
+          background-image: url(../../images/mats/LG/DrkBlueBrntOrange_TR.gif);
+          background-repeat: no-repeat;
+          }
+          #DarkBlueOrangeDoubleMat_LEFT {
+          background-image: url(../../images/mats/LG/DrkBlueBrntOrange_LEFT.gif);
+          background-repeat: repeat-y;
+          }
+          #DarkBlueOrangeDoubleMat_RIGHT {
+          background-image: url(../../images/mats/LG/DrkBlueBrntOrange_RIGHT.gif);
+          background-repeat: repeat-y;
+          }
+          #DarkBlueOrangeDoubleMat_BL {
+          background-image: url(../../images/mats/LG/DrkBlueBrntOrange_BL.gif);
+          background-repeat: no-repeat;
+          }
+          #DarkBlueOrangeDoubleMat_BOTTOM {
+          background-image: url(../../images/mats/LG/DrkBlueBrntOrange_BOTTOM.gif);
+          background-repeat: repeat-x;
+          }
+          #DarkBlueOrangeDoubleMat_BR {
+          background-image: url(../../images/mats/LG/DrkBlueBrntOrange_BR.gif);
+          background-repeat: no-repeat;
+          }
+
+
+
+          #DarkBlueRedDoubleMat_TL {
+          background-image: url(../../images/mats/LG/DrkBlueDrkRed_TL.gif);
+          background-repeat: no-repeat;
+          }
+          #DarkBlueRedDoubleMat_TOP {
+          background-image: url(../../images/mats/LG/DrkBlueDrkRed_TOP.gif);
+          background-repeat: repeat-x;
+          }
+          #DarkBlueRedDoubleMat_TR {
+          background-image: url(../../images/mats/LG/DrkBlueDrkRed_TR.gif);
+          background-repeat: no-repeat;
+          }
+          #DarkBlueRedDoubleMat_LEFT {
+          background-image: url(../../images/mats/LG/DrkBlueDrkRed_LEFT.gif);
+          background-repeat: repeat-y;
+          }
+          #DarkBlueRedDoubleMat_RIGHT {
+          background-image: url(../../images/mats/LG/DrkBlueDrkRed_RIGHT.gif);
+          background-repeat: repeat-y;
+          }
+          #DarkBlueRedDoubleMat_BL {
+          background-image: url(../../images/mats/LG/DrkBlueDrkRed_BL.gif);
+          background-repeat: no-repeat;
+          }
+          #DarkBlueRedDoubleMat_BOTTOM {
+          background-image: url(../../images/mats/LG/DrkBlueDrkRed_BOTTOM.gif);
+          background-repeat: repeat-x;
+          }
+          #DarkBlueRedDoubleMat_BR {
+          background-image: url(../../images/mats/LG/DrkBlueDrkRed_BR.gif);
+          background-repeat: no-repeat;
+          }
+
+
+          #LightGrayDarkBlueDoubleMat_TL {
+          background-image: url(../../images/mats/LG/GreyDrkBlue_TL.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayDarkBlueDoubleMat_TOP {
+          background-image: url(../../images/mats/LG/GreyDrkBlue_TOP.gif);
+          background-repeat: repeat-x;
+          }
+          #LightGrayDarkBlueDoubleMat_TR {
+          background-image: url(../../images/mats/LG/GreyDrkBlue_TR.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayDarkBlueDoubleMat_LEFT {
+          background-image: url(../../images/mats/LG/GreyDrkBlue_LEFT.gif);
+          background-repeat: repeat-y;
+          }
+          #LightGrayDarkBlueDoubleMat_RIGHT {
+          background-image: url(../../images/mats/LG/GreyDrkBlue_RIGHT.gif);
+          background-repeat: repeat-y;
+          }
+          #LightGrayDarkBlueDoubleMat_BL {
+          background-image: url(../../images/mats/LG/GreyDrkBlue_BL.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayDarkBlueDoubleMat_BOTTOM {
+          background-image: url(../../images/mats/LG/GreyDrkBlue_BOTTOM.gif);
+          background-repeat: repeat-x;
+          }
+          #LightGrayDarkBlueDoubleMat_BR {
+          background-image: url(../../images/mats/LG/GreyDrkBlue_BR.gif);
+          background-repeat: no-repeat;
+          }
+
+          #LightGrayDarkRedDoubleMat_TL {
+          background-image: url(../../images/mats/LG/GreyDrkRed_TL.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayDarkRedDoubleMat_TOP {
+          background-image: url(../../images/mats/LG/GreyDrkRed_TOP.gif);
+          background-repeat: repeat-x;
+          }
+          #LightGrayDarkRedDoubleMat_TR {
+          background-image: url(../../images/mats/LG/GreyDrkRed_TR.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayDarkRedDoubleMat_LEFT {
+          background-image: url(../../images/mats/LG/GreyDrkRed_LEFT.gif);
+          background-repeat: repeat-y;
+          }
+          #LightGrayDarkRedDoubleMat_RIGHT {
+          background-image: url(../../images/mats/LG/GreyDrkRed_RIGHT.gif);
+          background-repeat: repeat-y;
+          }
+          #LightGrayDarkRedDoubleMat_BL {
+          background-image: url(../../images/mats/LG/GreyDrkRed_BL.gif);
+          background-repeat: no-repeat;
+          }
+          #LightGrayDarkRedDoubleMat_BOTTOM {
+          background-image: url(../../images/mats/LG/GreyDrkRed_BOTTOM.gif);
+          background-repeat: repeat-x;
+          }
+          #LightGrayDarkRedDoubleMat_BR {
+          background-image: url(../../images/mats/LG/GreyDrkRed_BR.gif);
+          background-repeat: no-repeat;
+          }
+          
+          #style2_TL {
+          background-image: url(../../images/mats/LG/nomat_TL.jpg);
+          background-repeat: no-repeat;
+          }
+          #style2_TOP {
+          background-image: url(../../images/mats/LG/nomat_TOP.jpg);
+          background-repeat: repeat-x;
+          }
+          #style2_TR {
+          background-image: url(../../images/mats/LG/nomat_TR.jpg);
+          background-repeat: no-repeat;
+          }
+          #style2_LEFT {
+          background-image: url(../../images/mats/LG/nomat_LEFT.jpg);
+          background-repeat: repeat-y;
+          }
+          #style2_RIGHT {
+          background-image: url(../../images/mats/LG/nomat_RIGHT.jpg);
+          background-repeat: repeat-y;
+          }
+          #style2_BL {
+          background-image: url(../../images/mats/LG/nomat_BL.jpg);
+          background-repeat: no-repeat;
+          }
+          #style2_BOTTOM {
+          background-image: url(../../images/mats/LG/nomat_BOTTOM.jpg);
+          background-repeat: repeat-x;
+          }
+          #style2_BR {
+          background-image: url(../../images/mats/LG/nomat_BR.jpg);
+          background-repeat: no-repeat;
+          }
+          
+          #NoMatSelected_TL {
+          background-image: url(../../images/mats/LG/nomat_TL.jpg);
+          background-repeat: no-repeat;
+          }
+          #NoMatSelected_TOP {
+          background-image: url(../../images/mats/LG/nomat_TOP.jpg);
+          background-repeat: repeat-x;
+          }
+          #NoMatSelected_TR {
+          background-image: url(../../images/mats/LG/nomat_TR.jpg);
+          background-repeat: no-repeat;
+          }
+          #NoMatSelected_LEFT {
+          background-image: url(../../images/mats/LG/nomat_LEFT.jpg);
+          background-repeat: repeat-y;
+          }
+          #NoMatSelected_RIGHT {
+          background-image: url(../../images/mats/LG/nomat_RIGHT.jpg);
+          background-repeat: repeat-y;
+          }
+          #NoMatSelected_BL {
+          background-image: url(../../images/mats/LG/nomat_BL.jpg);
+          background-repeat: no-repeat;
+          }
+          #NoMatSelected_BOTTOM {
+          background-image: url(../../images/mats/LG/nomat_BOTTOM.jpg);
+          background-repeat: repeat-x;
+          }
+          #NoMatSelected_BR {
+          background-image: url(../../images/mats/LG/nomat_BR.jpg);
+          background-repeat: no-repeat;
+          }

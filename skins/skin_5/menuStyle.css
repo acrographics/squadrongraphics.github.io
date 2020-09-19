@@ -1,0 +1,215 @@
+.MenuGroup
+{
+	background-color:transparent;
+}
+
+.DropMenuGroup
+{
+	background-color: #EEEEEE;
+	border: 0px;
+	border-style:solid;	
+	border-color:#CCCCCC;
+	padding: 2px;
+	filter:progid:DXImageTransform.Microsoft.Shadow(color='#858585', Direction=135, Strength=2); 	
+}
+
+.MenuItem
+{
+	background-color:#EEEEEE;
+	color:#FFFFFF;
+	font-family:Verdana,Arial;
+	border: 0px;
+	border-style:solid;	
+	border-color:#CCCCCC;	
+/*	font-size:12; */
+	font-weight:normal;
+	padding: 3px; 
+}
+
+.MenuItemOver
+{
+	background-color: #EEEEEE;
+	color:#FFFFFF;
+	font-family:Verdana,Arial;
+/*	font-size:12;*/
+	font-weight:normal;
+	border:0px;
+	border-style:solid;
+	border-color:#989898;
+	padding: 3px;
+	cursor:hand;
+}
+
+.MenuBreak
+{
+  margin-left:30px; 
+}
+
+/******** Office2003 *******/
+
+.Office2003TopGroup
+{
+  background-color:#D9D9E6; 
+  border-width:1px; 
+  border-color:gray; 
+  border-style:solid;
+  cursor:default; 
+}
+
+.Office2003MenuGroup
+{
+  background-image:url(images/group_background.gif);
+  border-width:1px; 
+  border-color:#7E7E81; 
+  border-style:solid;
+  cursor:default; 
+  filter:progid:DXImageTransform.Microsoft.Shadow(color='gray', Direction=135, Strength=2); 
+}
+
+.Office2003TopMenuItem
+{
+  background-color:#D9D9E6; 
+  color:black; 
+  font-family:MS Sans Serif; 
+/*  font-size:12px; */
+  border-width:1px; 
+  border-color:#D9D9E6; 
+  border-style:solid;
+  padding:2px;
+  cursor:default; 
+}
+
+.Office2003TopMenuItemOver 
+{
+  background-image:url(images/top_group_background.gif);
+  background-color:#E5E6EF; 
+  color:black; 
+  font-family:MS Sans Serif; 
+/*  font-size:12px; */
+  border-width:1px; 
+  border-color:#7C7C94; 
+  border-style:solid;
+  border-bottom-color:#BAB9CD; 
+  padding:2px;
+  cursor:default; 
+}
+
+.Office2003MenuItem
+{
+  color:black; 
+  font-family:MS Sans Serif; 
+  font-size:9px; 
+  padding:5px;
+  cursor:default; 
+}
+
+.Office2003MenuItemOver 
+{
+  background-color:#FFEEC2; 
+  color:black; 
+  font-family:MS Sans Serif; 
+  font-size:9px; 
+  border-width:1px; 
+  border-color:#4B4B6F; 
+  border-style:solid;
+  padding:4px;
+  text-indent:-1px;
+  cursor:default; 
+}
+
+.Office2003MenuBreak
+{
+  margin-left:30px; 
+}
+
+/*************** WinXP **************/
+.WinXPTopGroup
+{
+  background-color:#DBD7D0; 
+  border-width:1px; 
+  border-color:gray; 
+  border-style:solid;
+  cursor:default; 
+}
+
+.WinXPMenuGroup
+{
+  background-image:url(images/background.gif);
+  border-width:1px; 
+  border-color:#7E7E81; 
+  border-style:solid;
+  cursor:default; 
+  filter:progid:DXImageTransform.Microsoft.Shadow(color='gray', Direction=135, Strength=2); 
+}
+
+.WinXPTopMenuItem
+{
+  background-color:#DBD7D0; 
+  color:black; 
+  font-family:MS Sans Serif; 
+  font-size:12px; 
+  border-width:1px; 
+  border-color:#DBD7D0; 
+  border-style:solid;
+  padding:2px;
+  cursor:default; 
+}
+
+.WinXPTopMenuItemOver 
+{
+  background-color:#C2C5C8; 
+  color:black; 
+  font-family:MS Sans Serif; 
+  font-size:12px; 
+  border-width:1px; 
+  border-color:#A6A8B2; 
+  border-style:solid;
+  padding:2px;
+  cursor:default; 
+}
+
+.WinXPTopMenuItemDisabled
+{
+  background-color:#DBD7D0; 
+  color:gray; 
+  font-family:MS Sans Serif; 
+  font-size:12px; 
+  border-width:1px; 
+  border-color:#DBD7D0; 
+  border-style:solid;
+  padding:2px;
+  cursor:default;  
+}
+
+.WinXPMenuItem
+{
+  color:black; 
+  font-family:MS Sans Serif; 
+  font-size:9px; 
+  padding:5px;
+  cursor:default; 
+}
+
+.WinXPMenuItemOver 
+{
+  background-color:#C2C5C8; 
+  color:black; 
+  font-family:MS Sans Serif; 
+  font-size:9px; 
+  padding:5px;
+  cursor:default; 
+}
+
+.WinXPMenuItemDisabled
+{
+  color:gray; 
+  font-family:MS Sans Serif; 
+  font-size:9px; 
+  padding:5px;
+  cursor:default; 
+}
+
+.WinXPMenuBreak
+{
+  margin-left:26px; 
+}

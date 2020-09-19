@@ -1,0 +1,8 @@
+Change Log:
+
+May 12, 2012: Changed shipping method for USPS to support V4
+    + RTShipping.cs in Common lib  (Should compare this file with the original file in spgc.rar)
+Feb 15, 2013: Changed to handle free shippings
+    File change: ShoppingCart.cs in Common lib
+        - line 5777
+        + line 5776
